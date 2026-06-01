@@ -1,0 +1,1001 @@
+ProductID,ProductName,Category,Price,Rating,NumReviews,StockQuantity,Discount,Sales,DateAdded,City,Stock In Vast or Limited Quantity,,,,ROUND,SQRT,MINIMUM,MAXIMUM,SUM,MEDIAN,RANK,LEFT,RIGHT,LENGTH,MID
+1,Headphones,Electronics,400.31,1.7,3772,20,0.08,466,11-10-2023,Albuquerque,TRUE,,,,400,61.41661013,3,993,251.64,505,746,Head,ones,11,buquer
+2,Headphones,Electronics,235.03,2.3,2919,663,0.33,1332,9/28/2023,Queens,TRUE,,,,235,54.02777064,,,,,582,Head,ones,6,eens
+3,Smartwatch,Electronics,417.9,1.8,1184,459,0.31,252,10/20/2023,Austin,TRUE,,,,418,34.40930107,,,,,248,Smar,atch,6,stin
+4,Smartphone,Electronics,152.7,3.4,2047,475,0.49,1806,12-05-2023,Dallas,TRUE,,,,153,45.2437841,,,,,407,Smar,hone,6,llas
+5,Laptop,Electronics,394.74,1.8,1267,831,0.23,1508,08-10-2023,Tucson,TRUE,,,,395,35.59494346,,,,,268,Lapt,ptop,6,cson
+6,Headphones,Electronics,93.56,1.3,2435,600,0.48,241,9/21/2023,Louisville,TRUE,,,,94,49.34571917,,,,,493,Head,ones,10,uisvil
+7,Laptop,Electronics,57.86,3.7,1478,427,0.25,1966,05-08-2024,Cleveland,TRUE,,,,58,38.44476557,,,,,312,Lapt,ptop,9,evelan
+8,Laptop,Electronics,201.62,1.7,3073,389,0.1,1795,08-07-2023,Houston,TRUE,,,,202,55.43464621,,,,,607,Lapt,ptop,7,uston
+9,Smartphone,Electronics,485.1,4.1,161,201,0.45,269,6/27/2023,Cape Coral,TRUE,,,,485,12.68857754,,,,,36,Smar,hone,10,pe Cor
+10,Smartwatch,Electronics,170,3.3,1275,701,0.16,719,10/19/2023,Minneapolis,TRUE,,,,170,35.70714214,,,,,272,Smar,atch,11,nneapo
+11,Laptop,Electronics,274.45,3.3,4859,187,0.27,1064,01-07-2024,Memphis,FALSE,,,,274,69.70652767,,,,,976,Lapt,ptop,7,mphis
+12,Headphones,Electronics,90.98,1.1,2568,343,0.2,647,04-10-2024,Mesa,FALSE,,,,91,50.67543784,,,,,521,Head,ones,4,sa
+13,Headphones,Electronics,107.43,3.8,4514,288,0.3,1513,10/25/2023,Palm Bay,FALSE,,,,107,67.18630813,,,,,895,Head,ones,8,lm Bay
+14,Laptop,Electronics,66.78,4.5,4875,929,0.05,502,04-11-2024,Columbia,FALSE,,,,67,69.82120022,,,,,979,Lapt,ptop,8,lumbia
+15,Smartwatch,Electronics,336.3,3.4,2773,986,0.28,1762,03-03-2024,Seattle,FALSE,,,,336,52.65928218,,,,,560,Smar,atch,7,attle
+16,Headphones,Electronics,359.49,4,502,766,0.13,794,11/18/2023,Hartford,FALSE,,,,359,22.4053565,,,,,98,Head,ones,8,rtford
+17,Headphones,Electronics,64.34,2.8,863,742,0.24,1020,03-08-2024,Palm Bay,FALSE,,,,64,29.37686164,,,,,173,Head,ones,8,lm Bay
+18,Smartwatch,Electronics,454.71,2,1678,170,0.1,524,01-04-2024,Charlotte,FALSE,,,,455,40.9633983,,,,,344,Smar,atch,9,arlott
+19,Headphones,Electronics,151.98,1.6,2625,681,0.4,1976,1/30/2024,Charlotte,FALSE,,,,152,51.23475383,,,,,530,Head,ones,9,arlott
+20,Smartwatch,Electronics,403.8,1.7,1981,330,0.16,1371,10/25/2023,Akron,FALSE,,,,404,44.50842617,,,,,390,Smar,atch,5,ron
+21,Laptop,Electronics,63.93,1.9,4029,632,0.41,1768,9/27/2023,San Francisco,FALSE,,,,64,63.47440429,,,,,801,Lapt,ptop,13,n Fran
+22,Headphones,Electronics,90.68,3.1,4413,676,0.35,1257,12/23/2023,Austin,FALSE,,,,91,66.43041472,,,,,877,Head,ones,6,stin
+23,Smartwatch,Electronics,472.03,2.3,1495,232,0.2,1853,4/21/2024,Cincinnati,TRUE,,,,472,38.66522986,,,,,313,Smar,atch,10,ncinna
+24,Smartwatch,Electronics,133.37,3,1636,624,0.5,698,2/20/2024,Spokane,TRUE,,,,133,40.44749683,,,,,337,Smar,atch,7,okane
+25,Laptop,Electronics,256.31,1.2,3474,637,0.07,1707,11-07-2023,New York,TRUE,,,,256,58.94064811,,,,,688,Lapt,ptop,8,w York
+26,Smartwatch,Electronics,280.92,3.4,3510,202,0.18,400,10-01-2023,Indianapolis,TRUE,,,,281,59.24525297,,,,,699,Smar,atch,12,dianap
+27,Laptop,Electronics,190.21,3.5,197,981,0.27,751,1/20/2024,Virginia Beach,TRUE,,,,190,14.03566885,,,,,40,Lapt,ptop,14,rginia
+28,Smartphone,Electronics,83.85,3,2511,348,0.43,763,07-02-2023,Baltimore,TRUE,,,,84,50.10987927,,,,,509,Smar,hone,9,ltimor
+29,Headphones,Electronics,406.66,2.4,1734,819,0.47,1959,02-05-2024,Providence,TRUE,,,,407,41.64132563,,,,,351,Head,ones,10,oviden
+30,Headphones,Electronics,469,1.6,4061,297,0.13,1787,1/20/2024,Buffalo,FALSE,,,,469,63.72597587,,,,,803,Head,ones,7,ffalo
+31,Laptop,Electronics,491.26,3.1,4976,1,0.5,253,1/24/2024,San Antonio,FALSE,,,,491,70.54076835,,,,,995,Lapt,ptop,11,n Anto
+32,Smartphone,Electronics,451.2,3.5,2056,232,0.17,815,11/17/2023,Bronx,FALSE,,,,451,45.3431362,,,,,411,Smar,hone,5,onx
+33,Headphones,Electronics,429.6,2.6,1696,919,0.43,1648,2/29/2024,Buffalo,FALSE,,,,430,41.18252056,,,,,345,Head,ones,7,ffalo
+34,Smartwatch,Electronics,294.54,2.5,98,152,0,1919,07-10-2023,Tulsa,FALSE,,,,295,9.899494937,,,,,22,Smar,atch,5,lsa
+35,Laptop,Electronics,349.03,3.6,4067,160,0.01,397,09-09-2023,Toledo,TRUE,,,,349,63.77303505,,,,,805,Lapt,ptop,6,ledo
+36,Smartwatch,Electronics,375.78,3.6,1218,400,0.15,687,5/21/2024,Seattle,TRUE,,,,376,34.89985673,,,,,255,Smar,atch,7,attle
+37,Laptop,Electronics,299.04,4.9,562,437,0.45,26,10/30/2023,Virginia Beach,TRUE,,,,299,23.70653918,,,,,113,Lapt,ptop,14,rginia
+38,Smartphone,Electronics,256.29,3.3,959,480,0.1,1852,8/13/2023,Charlotte,TRUE,,,,256,30.96772513,,,,,203,Smar,hone,9,arlott
+39,Headphones,Electronics,290.28,4.1,16,171,0.47,476,4/27/2024,New York,TRUE,,,,290,4,,,,,6,Head,ones,8,w York
+40,Smartphone,Electronics,442.91,4,1060,279,0.17,301,12/14/2023,Cleveland,TRUE,,,,443,32.55764119,,,,,224,Smar,hone,9,evelan
+41,Jacket,Clothing,482.17,4.4,190,252,0.19,1184,9/30/2023,Harrisburg,TRUE,,,,482,13.78404875,,,,,37,Jack,cket,10,rrisbu
+42,Jacket,Clothing,93.05,3.2,569,322,0.29,1815,2/19/2024,Portland,TRUE,,,,93,23.85372088,,,,,114,Jack,cket,8,rtland
+43,Sweater,Clothing,338.86,2.4,154,489,0.44,784,2/29/2024,Spokane,TRUE,,,,339,12.40967365,,,,,34,Swea,ater,7,okane
+44,T-Shirt,Clothing,76.94,3.8,2806,537,0.41,920,5/30/2024,Ogden,FALSE,,,,77,52.97169055,,,,,564,T-Sh,hirt,5,den
+45,Sweater,Clothing,260.56,3,4780,19,0.32,511,1/22/2024,San Juan,FALSE,,,,261,69.13754407,,,,,960,Swea,ater,8,n Juan
+46,Sweater,Clothing,444.44,1.1,4929,799,0.29,853,4/22/2024,Grand Rapids,FALSE,,,,444,70.20683727,,,,,988,Swea,ater,12,and Ra
+47,T-Shirt,Clothing,85.97,4.9,1715,681,0.41,1077,03-03-2024,Wichita,FALSE,,,,86,41.41255848,,,,,348,T-Sh,hirt,7,chita
+48,T-Shirt,Clothing,415.66,2.1,4,102,0.04,876,6/28/2023,Las Vegas,FALSE,,,,416,2,,,,,2,T-Sh,hirt,9,s Vega
+49,Jacket,Clothing,352.76,1.6,4364,369,0.26,1693,1/17/2024,St. Louis,FALSE,,,,353,66.06057826,,,,,865,Jack,cket,9,. Loui
+50,T-Shirt,Clothing,205.42,2.7,1369,740,0.09,1853,09-07-2023,Memphis,FALSE,,,,205,37,,,,,292,T-Sh,hirt,7,mphis
+51,Jacket,Clothing,351.03,2.6,1081,633,0.08,801,03-08-2024,Albany,FALSE,,,,351,32.87856445,,,,,228,Jack,cket,6,bany
+52,Jeans,Clothing,56,1.7,4992,271,0.26,703,04-04-2024,Knoxville,FALSE,,,,56,70.65408693,,,,,999,Jean,eans,9,oxvill
+53,Jeans,Clothing,367.72,1.2,4249,655,0.08,1109,12-10-2023,San Francisco,FALSE,,,,368,65.18435395,,,,,839,Jean,eans,13,n Fran
+54,T-Shirt,Clothing,66.88,1.2,2141,749,0.49,452,11/21/2023,Louisville,FALSE,,,,67,46.27094121,,,,,424,T-Sh,hirt,10,uisvil
+55,Sweater,Clothing,57.94,3,4646,611,0.09,1757,6/21/2023,Buffalo,FALSE,,,,58,68.16157275,,,,,929,Swea,ater,7,ffalo
+56,Jacket,Clothing,33.55,4.8,2849,179,0.19,761,1/17/2024,Hartford,TRUE,,,,34,53.37602458,,,,,573,Jack,cket,8,rtford
+57,Jeans,Clothing,255.51,3.2,4611,15,0.04,1782,9/28/2023,San Diego,TRUE,,,,256,67.90434449,,,,,921,Jean,eans,9,n Dieg
+58,T-Shirt,Clothing,434.93,3.5,851,663,0.34,1698,05-10-2024,Minneapolis,TRUE,,,,435,29.17190429,,,,,168,T-Sh,hirt,11,nneapo
+59,T-Shirt,Clothing,407.49,4.3,3913,42,0.1,396,5/31/2024,Palm Bay,TRUE,,,,407,62.55397669,,,,,774,T-Sh,hirt,8,lm Bay
+60,Jacket,Clothing,194.86,1.2,753,34,0.17,89,9/22/2023,San Jose,TRUE,,,,195,27.44084547,,,,,156,Jack,cket,8,n Jose
+61,T-Shirt,Clothing,423.99,1.1,417,114,0.14,1219,08-03-2023,Toledo,TRUE,,,,424,20.42057786,,,,,86,T-Sh,hirt,6,ledo
+62,T-Shirt,Clothing,180.68,4.7,728,276,0.48,675,6/21/2023,Dallas,TRUE,,,,181,26.98147513,,,,,154,T-Sh,hirt,6,llas
+63,T-Shirt,Clothing,288.57,3.3,1122,547,0.19,95,01-12-2024,Boise,TRUE,,,,289,33.49626845,,,,,233,T-Sh,hirt,5,ise
+64,Jacket,Clothing,466.07,4.4,3440,694,0.38,216,6/23/2023,Albuquerque,TRUE,,,,466,58.65151319,,,,,682,Jack,cket,11,buquer
+65,T-Shirt,Clothing,195.09,3.1,595,879,0.19,396,12-08-2023,Louisville,TRUE,,,,195,24.39262184,,,,,121,T-Sh,hirt,10,uisvil
+66,Jacket,Clothing,200.71,1,4171,264,0.16,717,11-02-2023,San Jose,TRUE,,,,201,64.58327957,,,,,826,Jack,cket,8,n Jose
+67,Sweater,Clothing,246.44,3,143,884,0.05,395,5/18/2024,Kansas City,TRUE,,,,246,11.95826074,,,,,30,Swea,ater,11,nsas C
+68,Sweater,Clothing,339.53,4,3222,143,0.39,108,12/14/2023,San Francisco,FALSE,,,,340,56.76266379,,,,,641,Swea,ater,13,n Fran
+69,Jeans,Clothing,487.38,5,4729,132,0.37,732,10/21/2023,Los Angeles,FALSE,,,,487,68.76772499,,,,,948,Jean,eans,11,s Ange
+70,Jacket,Clothing,67.36,1.6,953,491,0.43,1253,06-05-2024,Staten Island,FALSE,,,,67,30.87069808,,,,,198,Jack,cket,13,aten I
+71,Jeans,Clothing,353.47,1.3,2993,794,0.35,1540,5/14/2024,Chicago,FALSE,,,,353,54.70831747,,,,,593,Jean,eans,7,icago
+72,T-Shirt,Clothing,124.28,3.3,1388,832,0.44,1680,7/21/2023,Atlanta,FALSE,,,,124,37.25587202,,,,,295,T-Sh,hirt,7,lanta
+73,T-Shirt,Clothing,300.03,2.4,3486,786,0.39,1205,12/28/2023,Louisville,FALSE,,,,300,59.04235768,,,,,693,T-Sh,hirt,10,uisvil
+74,Jacket,Clothing,131.87,2.3,3522,172,0.01,1243,02-07-2024,Omaha,FALSE,,,,132,59.3464405,,,,,702,Jack,cket,5,aha
+75,Jeans,Clothing,373.08,4.1,894,360,0.37,386,6/30/2023,Salt Lake City,FALSE,,,,373,29.89983278,,,,,182,Jean,eans,14,lt Lak
+76,Jeans,Clothing,206.11,2.9,823,928,0.11,133,4/15/2024,New Orleans,FALSE,,,,206,28.68797658,,,,,165,Jean,eans,11,w Orle
+77,Sweater,Clothing,489.17,3.2,4910,148,0.02,1236,11/22/2023,Denver,FALSE,,,,489,70.07139217,,,,,984,Swea,ater,6,nver
+78,Sweater,Clothing,46.16,3.2,3512,401,0.08,1328,5/29/2024,Pittsburgh,FALSE,,,,46,59.26212956,,,,,701,Swea,ater,10,ttsbur
+79,Jacket,Clothing,232.73,3.5,3330,655,0.37,970,5/31/2024,Palm Bay,FALSE,,,,233,57.70615219,,,,,656,Jack,cket,8,lm Bay
+80,Jeans,Clothing,475.7,4.6,3019,407,0.31,1031,02-11-2024,Providence,TRUE,,,,476,54.94542747,,,,,595,Jean,eans,10,oviden
+81,Coffee Maker,Home & Kitchen,326.96,2.6,539,731,0.18,739,12-03-2023,Des Moines,TRUE,,,,327,23.21637353,,,,,108,Coff,aker,10,s Moin
+82,Microwave,Home & Kitchen,352.1,3.1,2508,731,0.14,908,4/27/2024,Spokane,TRUE,,,,352,50.0799361,,,,,508,Micr,wave,7,okane
+83,Microwave,Home & Kitchen,413.04,4.8,255,708,0.31,449,06-02-2024,Bronx,TRUE,,,,413,15.96871942,,,,,55,Micr,wave,5,onx
+84,Coffee Maker,Home & Kitchen,439.56,3.2,1015,800,0.39,145,11-01-2023,Mesa,TRUE,,,,440,31.85906464,,,,,219,Coff,aker,4,sa
+85,Microwave,Home & Kitchen,83.7,3.4,4158,216,0.48,794,12/18/2023,Akron,TRUE,,,,84,64.48255578,,,,,824,Micr,wave,5,ron
+86,Blender,Home & Kitchen,41.12,1.1,510,384,0.01,822,06-06-2024,Grand Rapids,TRUE,,,,41,22.58317958,,,,,101,Blen,nder,12,and Ra
+87,Coffee Maker,Home & Kitchen,408.32,5,1460,22,0.38,676,11/23/2023,Madison,TRUE,,,,408,38.20994635,,,,,309,Coff,aker,7,dison
+88,Toaster,Home & Kitchen,195.15,2,2048,50,0.14,1795,8/29/2023,Fort Worth,TRUE,,,,195,45.254834,,,,,408,Toas,ster,10,rt Wor
+89,Toaster,Home & Kitchen,185.5,1.5,249,673,0.24,770,08-11-2023,Grand Rapids,TRUE,,,,186,15.77973384,,,,,52,Toas,ster,12,and Ra
+90,Coffee Maker,Home & Kitchen,410.03,4.9,3037,733,0.4,400,2/21/2024,Tulsa,FALSE,,,,410,55.10898293,,,,,598,Coff,aker,5,lsa
+91,Microwave,Home & Kitchen,24.1,4,3981,577,0.4,102,12-03-2023,Omaha,FALSE,,,,24,63.09516622,,,,,785,Micr,wave,5,aha
+92,Coffee Maker,Home & Kitchen,490.43,3.4,1358,858,0.05,1331,10-07-2023,San Francisco,FALSE,,,,490,36.85105155,,,,,291,Coff,aker,13,n Fran
+93,Toaster,Home & Kitchen,230.95,4.6,4637,758,0.26,80,1/31/2024,Portland,FALSE,,,,231,68.09552114,,,,,927,Toas,ster,8,rtland
+94,Blender,Home & Kitchen,82.07,4.7,2832,507,0.03,68,05-09-2024,El Paso,FALSE,,,,82,53.21653878,,,,,571,Blen,nder,7, Paso
+95,Toaster,Home & Kitchen,251.38,2.3,3818,42,0.12,1906,2/22/2024,Houston,FALSE,,,,251,61.78996682,,,,,759,Toas,ster,7,uston
+96,Blender,Home & Kitchen,235.46,3.3,3445,911,0.32,359,12-11-2023,Houston,FALSE,,,,235,58.69412236,,,,,683,Blen,nder,7,uston
+97,Blender,Home & Kitchen,449.43,2.9,4188,671,0.09,633,4/22/2024,Concord,FALSE,,,,449,64.71475875,,,,,829,Blen,nder,7,ncord
+98,Microwave,Home & Kitchen,412.68,2.4,4777,828,0.02,837,06-11-2024,Charlotte,FALSE,,,,413,69.11584478,,,,,959,Micr,wave,9,arlott
+99,Blender,Home & Kitchen,235.78,1.8,2593,944,0.25,1836,3/31/2024,Pittsburgh,FALSE,,,,236,50.92150823,,,,,524,Blen,nder,10,ttsbur
+100,Toaster,Home & Kitchen,401.71,3.5,2286,55,0.44,830,4/25/2024,Los Angeles,FALSE,,,,402,47.81213235,,,,,454,Toas,ster,11,s Ange
+101,Blender,Home & Kitchen,11.27,4.5,2055,624,0.3,1715,11/18/2023,Tucson,FALSE,,,,11,45.33210783,,,,,410,Blen,nder,6,cson
+102,Microwave,Home & Kitchen,191.53,2.9,4569,27,0.18,1239,01-10-2024,Washington,TRUE,,,,192,67.59437846,,,,,911,Micr,wave,10,shingt
+103,Toaster,Home & Kitchen,82.39,1.5,1646,918,0.26,1774,09-12-2023,San Diego,TRUE,,,,82,40.57092555,,,,,340,Toas,ster,9,n Dieg
+104,Toaster,Home & Kitchen,183.53,2.6,4580,27,0.01,1976,9/13/2023,Tulsa,TRUE,,,,184,67.67569726,,,,,916,Toas,ster,5,lsa
+105,Microwave,Home & Kitchen,53.71,3.1,4632,144,0.17,24,04-05-2024,Boston,TRUE,,,,54,68.05879811,,,,,926,Micr,wave,6,ston
+106,Toaster,Home & Kitchen,396.69,3,2158,227,0.27,33,2/22/2024,Madison,TRUE,,,,397,46.4542786,,,,,431,Toas,ster,7,dison
+107,Coffee Maker,Home & Kitchen,297.4,3.3,2472,612,0.18,1305,7/28/2023,Detroit,TRUE,,,,297,49.71921158,,,,,499,Coff,aker,7,troit
+108,Toaster,Home & Kitchen,129.73,3,3812,376,0.12,661,09-09-2023,Oklahoma City,TRUE,,,,130,61.74139616,,,,,756,Toas,ster,13,lahoma
+109,Toaster,Home & Kitchen,189.02,3,3421,842,0.04,349,03-09-2024,Fort Worth,FALSE,,,,189,58.48931526,,,,,678,Toas,ster,10,rt Wor
+110,Coffee Maker,Home & Kitchen,449.42,1.3,242,542,0.21,547,11-02-2023,New York,FALSE,,,,449,15.55634919,,,,,50,Coff,aker,8,w York
+111,Toaster,Home & Kitchen,204.95,4.9,3,846,0.41,880,03-10-2024,Baltimore,FALSE,,,,205,1.732050808,,,,,1,Toas,ster,9,ltimor
+112,Coffee Maker,Home & Kitchen,364.22,4.3,4289,846,0.27,1049,12/22/2023,Tucson,FALSE,,,,364,65.49045732,,,,,852,Coff,aker,6,cson
+113,Coffee Maker,Home & Kitchen,110.49,4.9,1810,723,0.25,112,1/24/2024,Columbia,FALSE,,,,110,42.54409477,,,,,364,Coff,aker,8,lumbia
+114,Microwave,Home & Kitchen,356.54,4.1,1573,804,0.25,1534,6/22/2023,Albany,TRUE,,,,357,39.66106403,,,,,328,Micr,wave,6,bany
+115,Blender,Home & Kitchen,270.97,1.2,4785,9,0.27,1673,12/23/2023,Allentown,TRUE,,,,271,69.17369442,,,,,963,Blen,nder,9,lentow
+116,Toaster,Home & Kitchen,167.95,4.2,320,318,0.34,784,9/21/2023,Grand Rapids,TRUE,,,,168,17.88854382,,,,,63,Toas,ster,12,and Ra
+117,Microwave,Home & Kitchen,241.85,3.4,3490,605,0.05,1604,7/30/2023,Phoenix,TRUE,,,,242,59.07622195,,,,,694,Micr,wave,7,oenix
+118,Coffee Maker,Home & Kitchen,482.86,1.5,375,458,0.47,587,05-08-2024,Albany,TRUE,,,,483,19.36491673,,,,,78,Coff,aker,6,bany
+119,Blender,Home & Kitchen,373.15,3.3,3850,872,0.38,1851,8/31/2023,Madison,TRUE,,,,373,62.04836823,,,,,763,Blen,nder,7,dison
+120,Microwave,Home & Kitchen,90.49,4.3,77,409,0.45,600,10/19/2023,Orlando,TRUE,,,,90,8.774964387,,,,,19,Micr,wave,7,lando
+121,Biography,Books,202.3,4.3,1318,615,0.19,1714,02-08-2024,Denver,TRUE,,,,202,36.30426972,,,,,281,Biog,aphy,6,nver
+122,Biography,Books,274.49,2.8,992,664,0.18,1006,08-08-2023,Sacramento,TRUE,,,,274,31.4960315,,,,,212,Biog,aphy,10,cramen
+123,Fantasy Book,Books,122.22,3.2,197,645,0.17,1202,05-01-2024,Port St. Lucie,FALSE,,,,122,14.03566885,,,,,40,Fant,Book,14,rt St.
+124,Fantasy Book,Books,91.7,4.5,2035,477,0.45,419,01-07-2024,Pittsburgh,FALSE,,,,92,45.11097427,,,,,398,Fant,Book,10,ttsbur
+125,Biography,Books,378.68,3.8,950,288,0.02,597,7/26/2023,Staten Island,FALSE,,,,379,30.82207001,,,,,197,Biog,aphy,13,aten I
+126,Biography,Books,252.05,4,2853,908,0.06,227,11-09-2023,Chicago,FALSE,,,,252,53.41348144,,,,,575,Biog,aphy,7,icago
+127,Fantasy Book,Books,204.67,4.2,3228,46,0.2,1708,02-03-2024,Charlotte,FALSE,,,,205,56.81549085,,,,,642,Fant,Book,9,arlott
+128,Science Book,Books,324.16,3.8,793,810,0.3,1683,06-01-2024,Des Moines,FALSE,,,,324,28.16025568,,,,,161,Scie,Book,10,s Moin
+129,Biography,Books,455.14,3.3,4807,22,0.23,301,6/15/2023,San Francisco,FALSE,,,,455,69.33253205,,,,,968,Biog,aphy,13,n Fran
+130,Fantasy Book,Books,456.81,1.6,3281,984,0.13,1639,08-01-2023,Fort Worth,FALSE,,,,457,57.28001397,,,,,651,Fant,Book,10,rt Wor
+131,Science Book,Books,466.74,3.3,2935,804,0.35,1129,03-12-2024,Tulsa,FALSE,,,,467,54.17564028,,,,,584,Scie,Book,5,lsa
+132,Science Book,Books,307.29,2.7,3533,295,0.42,778,9/29/2023,Manhattan,FALSE,,,,307,59.43904441,,,,,703,Scie,Book,9,nhatta
+133,Biography,Books,125.59,1.7,1205,982,0.46,1854,4/18/2024,St. Louis,FALSE,,,,126,34.71310992,,,,,251,Biog,aphy,9,. Loui
+134,Science Book,Books,299.72,2.6,1332,136,0.1,312,2/16/2024,Portland,FALSE,,,,300,36.49657518,,,,,284,Scie,Book,8,rtland
+135,Biography,Books,173.41,2.6,536,601,0.46,385,11/15/2023,Port St. Lucie,TRUE,,,,173,23.15167381,,,,,106,Biog,aphy,14,rt St.
+136,Science Book,Books,371.38,2.8,954,875,0.46,1205,01-12-2024,Fresno,TRUE,,,,371,30.88689042,,,,,199,Scie,Book,6,esno
+137,Novel,Books,254.2,2.7,4380,62,0.14,665,01-08-2024,Denton,TRUE,,,,254,66.18156843,,,,,868,Nove,ovel,6,nton
+138,Biography,Books,335.13,1.7,3432,688,0.28,341,04-10-2024,Boise,TRUE,,,,335,58.58327406,,,,,680,Biog,aphy,5,ise
+139,Novel,Books,100.39,2.2,1759,140,0.2,434,11/14/2023,Chicago,TRUE,,,,100,41.94043395,,,,,357,Nove,ovel,7,icago
+140,Biography,Books,110.52,1.8,4524,476,0.24,1447,5/24/2024,Charlotte,TRUE,,,,111,67.26068688,,,,,897,Biog,aphy,9,arlott
+141,Biography,Books,154.08,3.9,3057,193,0.27,1136,2/19/2024,Bronx,TRUE,,,,154,55.29014379,,,,,604,Biog,aphy,5,onx
+142,Biography,Books,284.22,1.6,3335,924,0.04,1666,8/29/2023,Denver,TRUE,,,,284,57.74945887,,,,,658,Biog,aphy,6,nver
+143,Biography,Books,142.66,3.6,3451,992,0.01,1499,8/29/2023,Los Angeles,TRUE,,,,143,58.74521257,,,,,684,Biog,aphy,11,s Ange
+144,Biography,Books,434.83,2.6,4408,758,0.13,442,10-01-2023,Detroit,TRUE,,,,435,66.39277069,,,,,876,Biog,aphy,7,troit
+145,Novel,Books,301.57,2.4,3300,578,0.44,1627,9/22/2023,Louisville,TRUE,,,,302,57.44562647,,,,,652,Nove,ovel,10,uisvil
+146,Biography,Books,404.6,5,1311,119,0.4,1935,12/30/2023,New York,TRUE,,,,405,36.20773398,,,,,279,Biog,aphy,8,w York
+147,Biography,Books,110.44,2.2,943,977,0.01,774,01-03-2024,Port St. Lucie,FALSE,,,,110,30.70830507,,,,,196,Biog,aphy,14,rt St.
+148,Science Book,Books,425.58,1.5,914,547,0.32,81,06-10-2024,Little Rock,FALSE,,,,426,30.23243292,,,,,185,Scie,Book,11,ttle R
+149,Novel,Books,410.55,2.4,4841,385,0.18,1142,5/23/2024,Little Rock,FALSE,,,,411,69.57729515,,,,,972,Nove,ovel,11,ttle R
+150,Novel,Books,179.14,4.1,3577,853,0.39,592,11/23/2023,Jacksonville,FALSE,,,,179,59.80802622,,,,,710,Nove,ovel,12,cksonv
+151,Biography,Books,248.84,4.6,4223,735,0.21,1138,11/16/2023,Wichita,FALSE,,,,249,64.98461356,,,,,832,Biog,aphy,7,chita
+152,Biography,Books,373.43,3.8,1304,358,0.11,1301,10/21/2023,Orlando,FALSE,,,,373,36.11094017,,,,,278,Biog,aphy,7,lando
+153,Biography,Books,492.36,3.1,3180,609,0.14,74,7/22/2023,Los Angeles,FALSE,,,,492,56.39148872,,,,,630,Biog,aphy,11,s Ange
+154,Biography,Books,269.53,4.3,40,933,0.03,1700,01-11-2024,Port St. Lucie,FALSE,,,,270,6.32455532,,,,,12,Biog,aphy,14,rt St.
+155,Biography,Books,416.57,1.8,341,980,0.13,1310,1/30/2024,Salt Lake City,FALSE,,,,417,18.46618531,,,,,67,Biog,aphy,14,lt Lak
+156,Science Book,Books,302.73,3.4,454,905,0.46,921,12-05-2023,St. Louis,FALSE,,,,303,21.30727575,,,,,92,Scie,Book,9,. Loui
+157,Biography,Books,216.8,2.4,1386,704,0.04,1315,09-04-2023,Baltimore,FALSE,,,,217,37.22902094,,,,,294,Biog,aphy,9,ltimor
+158,Novel,Books,200.75,2.2,1136,186,0.15,1250,08-07-2023,Tucson,FALSE,,,,201,33.70459909,,,,,241,Nove,ovel,6,cson
+159,Biography,Books,204.36,4.8,4501,68,0.24,1785,05-07-2024,Baltimore,FALSE,,,,204,67.08949247,,,,,891,Biog,aphy,9,ltimor
+160,Science Book,Books,138.51,3.4,3920,957,0.48,481,11/24/2023,Provo,FALSE,,,,139,62.60990337,,,,,776,Scie,Book,5,ovo
+161,Board Game,Toys & Games,242.38,2.4,2343,16,0.21,60,2/29/2024,Queens,FALSE,,,,242,48.40454524,,,,,468,Boar,Game,6,eens
+162,Board Game,Toys & Games,235.24,1.3,3569,228,0,1458,03-02-2024,Milwaukee,FALSE,,,,235,59.74110812,,,,,708,Boar,Game,9,lwauke
+163,Board Game,Toys & Games,60.52,2.3,4090,816,0.07,329,4/16/2024,Denver,FALSE,,,,61,63.95310782,,,,,811,Boar,Game,6,nver
+164,Puzzle,Toys & Games,265.44,1.3,3663,215,0.38,660,3/23/2024,Cape Coral,FALSE,,,,265,60.52272301,,,,,725,Puzz,zzle,10,pe Cor
+165,Puzzle,Toys & Games,364.81,3.5,3726,570,0.49,1900,5/17/2024,Tampa,FALSE,,,,365,61.04096985,,,,,738,Puzz,zzle,5,mpa
+166,Puzzle,Toys & Games,31.64,3.4,400,918,0.28,1109,10-06-2023,Dayton,FALSE,,,,32,20,,,,,83,Puzz,zzle,6,yton
+167,Puzzle,Toys & Games,26.63,3.8,4232,882,0.46,1521,08-02-2023,Atlanta,FALSE,,,,27,65.05382387,,,,,834,Puzz,zzle,7,lanta
+168,Puzzle,Toys & Games,399.72,4,2419,934,0.23,1466,03-01-2024,Mission Viejo,TRUE,,,,400,49.18333051,,,,,488,Puzz,zzle,13,ssion 
+169,Action Figure,Toys & Games,328.58,2.5,2667,187,0.24,130,8/24/2023,Harrisburg,TRUE,,,,329,51.64300533,,,,,538,Acti,gure,10,rrisbu
+170,Puzzle,Toys & Games,176.54,3.9,4459,38,0.16,496,06-08-2024,Harrisburg,TRUE,,,,177,66.7757441,,,,,884,Puzz,zzle,10,rrisbu
+171,Action Figure,Toys & Games,334.21,4,4111,492,0.31,893,08-06-2023,Riverside,TRUE,,,,334,64.11708041,,,,,812,Acti,gure,9,versid
+172,Puzzle,Toys & Games,436.35,1.1,4854,780,0.26,1439,03-08-2024,Boston,TRUE,,,,436,69.67065379,,,,,974,Puzz,zzle,6,ston
+173,Puzzle,Toys & Games,44.31,1,4124,957,0.04,317,10-11-2023,Milwaukee,TRUE,,,,44,64.21837743,,,,,816,Puzz,zzle,9,lwauke
+174,Toy Car,Toys & Games,317.48,4.5,1262,376,0.38,920,6/19/2023,El Paso,TRUE,,,,317,35.52463934,,,,,265,Toy , Car,7, Paso
+175,Toy Car,Toys & Games,371.42,2,2050,428,0.18,1693,7/24/2023,Mesa,TRUE,,,,371,45.27692569,,,,,409,Toy , Car,4,sa
+176,Board Game,Toys & Games,124.47,1.2,704,948,0.49,584,08-12-2023,Baltimore,TRUE,,,,124,26.53299832,,,,,151,Boar,Game,9,ltimor
+177,Action Figure,Toys & Games,343.03,1.9,2041,804,0.39,938,11/27/2023,Raleigh,TRUE,,,,343,45.17742799,,,,,403,Acti,gure,7,leigh
+178,Puzzle,Toys & Games,440.77,4.8,10,61,0.31,1176,11/26/2023,Nashville,FALSE,,,,441,3.16227766,,,,,4,Puzz,zzle,9,shvill
+179,Toy Car,Toys & Games,41.84,2.6,884,242,0.26,1353,2/26/2024,Tulsa,FALSE,,,,42,29.73213749,,,,,177,Toy , Car,5,lsa
+180,Board Game,Toys & Games,198.2,1.1,2553,258,0.41,1540,9/25/2023,Akron,FALSE,,,,198,50.52722039,,,,,516,Boar,Game,5,ron
+181,Board Game,Toys & Games,484.86,4.5,3170,19,0.5,1596,12/17/2023,Houston,FALSE,,,,485,56.30275304,,,,,629,Boar,Game,7,uston
+182,Board Game,Toys & Games,351.05,1.6,4255,738,0.11,1143,3/15/2024,New Orleans,FALSE,,,,351,65.23036103,,,,,840,Boar,Game,11,w Orle
+183,Action Figure,Toys & Games,448.51,4.4,1290,616,0.2,634,5/14/2024,Albuquerque,FALSE,,,,449,35.91656999,,,,,274,Acti,gure,11,buquer
+184,Action Figure,Toys & Games,31.74,4.4,4265,520,0.16,1560,9/25/2023,Miami,FALSE,,,,32,65.30696747,,,,,843,Acti,gure,5,ami
+185,Puzzle,Toys & Games,52.62,2.6,974,37,0.13,1924,12/19/2023,Miami,TRUE,,,,53,31.20897307,,,,,206,Puzz,zzle,5,ami
+186,Board Game,Toys & Games,270.98,4.8,1711,972,0.45,972,3/23/2024,Jacksonville,TRUE,,,,271,41.36423576,,,,,347,Boar,Game,12,cksonv
+187,Board Game,Toys & Games,252.62,2.9,2396,114,0.41,1591,05-03-2024,Buffalo,TRUE,,,,253,48.948953,,,,,480,Boar,Game,7,ffalo
+188,Board Game,Toys & Games,276.45,4.5,1312,261,0.26,335,12/27/2023,Boise,TRUE,,,,276,36.22154055,,,,,280,Boar,Game,5,ise
+189,Toy Car,Toys & Games,426.79,4.5,1704,780,0.42,1368,12/14/2023,San Francisco,TRUE,,,,427,41.27953488,,,,,346,Toy , Car,13,n Fran
+190,Board Game,Toys & Games,61.86,3.8,4795,6,0.44,556,08-03-2023,Charlotte,TRUE,,,,62,69.24593851,,,,,964,Boar,Game,9,arlott
+191,Action Figure,Toys & Games,24.33,4.3,2719,362,0.11,1574,3/22/2024,Virginia Beach,TRUE,,,,24,52.1440313,,,,,545,Acti,gure,14,rginia
+192,Toy Car,Toys & Games,282.53,4,1547,294,0.1,1548,4/27/2024,Providence,TRUE,,,,283,39.33192088,,,,,324,Toy , Car,10,oviden
+193,Puzzle,Toys & Games,490.78,3.5,4795,447,0.27,674,7/22/2023,Ogden,TRUE,,,,491,69.24593851,,,,,964,Puzz,zzle,5,den
+194,Puzzle,Toys & Games,382.9,3.2,1247,993,0.17,571,7/13/2023,Allentown,TRUE,,,,383,35.31288717,,,,,262,Puzz,zzle,9,lentow
+195,Board Game,Toys & Games,379.31,4.2,1887,483,0.03,730,12-03-2023,New Haven,TRUE,,,,379,43.43961326,,,,,373,Boar,Game,9,w Have
+196,Action Figure,Toys & Games,387.78,3.8,885,704,0.03,1143,11/15/2023,Albany,TRUE,,,,388,29.74894956,,,,,178,Acti,gure,6,bany
+197,Board Game,Toys & Games,495.17,3.7,4811,675,0.32,947,06-05-2024,Detroit,TRUE,,,,495,69.36137254,,,,,969,Boar,Game,7,troit
+198,Action Figure,Toys & Games,20.84,2.3,3999,946,0.13,1561,10/30/2023,Albany,FALSE,,,,21,63.23764702,,,,,793,Acti,gure,6,bany
+199,Action Figure,Toys & Games,472.71,1.4,38,270,0.4,156,3/29/2024,Albuquerque,FALSE,,,,473,6.164414003,,,,,11,Acti,gure,11,buquer
+200,Toy Car,Toys & Games,421.57,4.1,3155,21,0.07,1730,07-11-2023,Cincinnati,FALSE,,,,422,56.16938668,,,,,625,Toy , Car,10,ncinna
+201,Fish Oil,Vitamins and supplements,84.02,2.7,4116,302,0.21,1978,3/20/2024,Spokane,FALSE,,,,84,64.15605973,,,,,814,Fish, Oil,7,okane
+202,Fish Oil,Vitamins and supplements,382.45,2.8,4665,891,0.36,1185,01-01-2024,El Paso,FALSE,,,,382,68.30080527,,,,,938,Fish, Oil,7, Paso
+203,Protein Powder,Vitamins and supplements,435.38,3.9,1809,270,0.24,1562,04-01-2024,Columbus,FALSE,,,,435,42.53234064,,,,,363,Prot,wder,8,lumbus
+204,Protein Powder,Vitamins and supplements,100.91,4.5,3380,519,0.39,1709,4/23/2024,New York,FALSE,,,,101,58.13776741,,,,,668,Prot,wder,8,w York
+205,Protein Powder,Vitamins and supplements,18.75,4.2,692,535,0.46,898,4/27/2024,Cleveland,TRUE,,,,19,26.30589288,,,,,145,Prot,wder,9,evelan
+206,Vitamin D,Vitamins and supplements,245.95,1.5,3344,893,0.34,1763,06-03-2024,McAllen,TRUE,,,,246,57.82732918,,,,,661,Vita,in D,7,Allen
+207,Fish Oil,Vitamins and supplements,120.51,1.6,116,385,0.4,394,04-09-2024,Knoxville,TRUE,,,,121,10.77032961,,,,,25,Fish, Oil,9,oxvill
+208,Multivitamin,Vitamins and supplements,83.29,2.9,2013,319,0.2,1518,03-09-2024,Spokane,TRUE,,,,83,44.86646855,,,,,396,Mult,amin,7,okane
+209,Fish Oil,Vitamins and supplements,152.91,3.8,2043,101,0.45,778,11-11-2023,Columbus,TRUE,,,,153,45.19955752,,,,,405,Fish, Oil,8,lumbus
+210,Vitamin D,Vitamins and supplements,61.42,2,2936,45,0.07,591,08-07-2023,San Diego,TRUE,,,,61,54.18486874,,,,,585,Vita,in D,9,n Dieg
+211,Fish Oil,Vitamins and supplements,113.07,2.4,935,927,0.47,1888,06-10-2024,Charleston,TRUE,,,,113,30.5777697,,,,,194,Fish, Oil,10,arlest
+212,Multivitamin,Vitamins and supplements,53.05,2.4,917,102,0.07,870,3/14/2024,Milwaukee,TRUE,,,,53,30.28200786,,,,,186,Mult,amin,9,lwauke
+213,Fish Oil,Vitamins and supplements,349.67,4.3,105,886,0.34,1895,7/31/2023,San Francisco,TRUE,,,,350,10.24695077,,,,,23,Fish, Oil,13,n Fran
+214,Vitamin D,Vitamins and supplements,449.15,3.4,3144,358,0.31,552,11/21/2023,Detroit,TRUE,,,,449,56.07138308,,,,,624,Vita,in D,7,troit
+215,Protein Powder,Vitamins and supplements,474.2,3.5,1107,317,0.31,382,06-05-2024,Wichita,TRUE,,,,474,33.27160952,,,,,232,Prot,wder,7,chita
+216,Vitamin D,Vitamins and supplements,448.46,3.2,3385,21,0.23,514,02-06-2024,New Haven,TRUE,,,,448,58.18075283,,,,,669,Vita,in D,9,w Have
+217,Multivitamin,Vitamins and supplements,90.36,2.8,2134,523,0.08,1324,10/13/2023,McAllen,TRUE,,,,90,46.19523785,,,,,422,Mult,amin,7,Allen
+218,Fish Oil,Vitamins and supplements,171.22,2.9,4780,903,0.44,308,12-12-2023,Sacramento,TRUE,,,,171,69.13754407,,,,,960,Fish, Oil,10,cramen
+219,Protein Powder,Vitamins and supplements,254.12,3.2,661,548,0.5,872,4/14/2024,Charleston,TRUE,,,,254,25.70992026,,,,,134,Prot,wder,10,arlest
+220,Vitamin D,Vitamins and supplements,49.95,2.6,4540,92,0.21,1230,6/25/2023,Spokane,TRUE,,,,50,67.37952211,,,,,902,Vita,in D,7,okane
+221,Vitamin D,Vitamins and supplements,236.69,4.5,158,953,0.37,403,8/24/2023,Akron,FALSE,,,,237,12.56980509,,,,,35,Vita,in D,5,ron
+222,Protein Powder,Vitamins and supplements,370.32,4.1,955,151,0.27,946,03-08-2024,Atlanta,FALSE,,,,370,30.90307428,,,,,200,Prot,wder,7,lanta
+223,Multivitamin,Vitamins and supplements,224.92,3.9,3811,577,0.3,931,9/24/2023,Queens,FALSE,,,,225,61.73329734,,,,,755,Mult,amin,6,eens
+224,Vitamin D,Vitamins and supplements,145.65,3.4,1269,636,0.11,1260,5/25/2024,Denver,FALSE,,,,146,35.62302626,,,,,270,Vita,in D,6,nver
+225,Protein Powder,Vitamins and supplements,419.64,1.9,4889,519,0.2,477,3/17/2024,Baltimore,FALSE,,,,420,69.92138443,,,,,981,Prot,wder,9,ltimor
+226,Fish Oil,Vitamins and supplements,126.4,4.9,374,292,0.43,1004,05-02-2024,Columbus,FALSE,,,,126,19.33907961,,,,,76,Fish, Oil,8,lumbus
+227,Fish Oil,Vitamins and supplements,57.72,2.6,13,503,0.29,1107,02-03-2024,New York,FALSE,,,,58,3.605551275,,,,,5,Fish, Oil,8,w York
+228,Vitamin D,Vitamins and supplements,90.13,2.6,2040,27,0.13,1252,9/25/2023,Jacksonville,FALSE,,,,90,45.16635916,,,,,401,Vita,in D,12,cksonv
+229,Vitamin D,Vitamins and supplements,298.32,3.4,4396,918,0.23,1418,06-02-2024,Birmingham,FALSE,,,,298,66.30233782,,,,,871,Vita,in D,10,rmingh
+230,Vitamin D,Vitamins and supplements,226.59,2.3,2891,861,0.07,132,09-10-2023,McAllen,FALSE,,,,227,53.76802024,,,,,580,Vita,in D,7,Allen
+231,Protein Powder,Vitamins and supplements,312.4,3.8,575,885,0.08,1144,2/26/2024,St. Louis,FALSE,,,,312,23.97915762,,,,,117,Prot,wder,9,. Loui
+232,Multivitamin,Vitamins and supplements,184.8,3.1,2352,496,0.35,1847,01-08-2024,Staten Island,FALSE,,,,185,48.49742261,,,,,469,Mult,amin,13,aten I
+233,Vitamin D,Vitamins and supplements,435.45,1.8,956,915,0.13,1665,8/24/2023,Hartford,TRUE,,,,435,30.91924967,,,,,201,Vita,in D,8,rtford
+234,Protein Powder,Vitamins and supplements,35.33,3.6,1058,197,0.09,1082,7/23/2023,Spokane,TRUE,,,,35,32.52691193,,,,,223,Prot,wder,7,okane
+235,Multivitamin,Vitamins and supplements,258.55,1.2,4585,275,0.49,1239,10-05-2023,Dayton,TRUE,,,,259,67.71262807,,,,,917,Mult,amin,6,yton
+236,Vitamin D,Vitamins and supplements,18.52,2.3,3868,184,0.29,1207,12/17/2023,Orlando,TRUE,,,,19,62.19324722,,,,,768,Vita,in D,7,lando
+237,Vitamin D,Vitamins and supplements,336.76,1.6,4403,335,0.47,891,06-04-2024,McAllen,TRUE,,,,337,66.3551053,,,,,874,Vita,in D,7,Allen
+238,Fish Oil,Vitamins and supplements,102.29,3.9,4612,494,0.09,1825,12-02-2023,Hartford,TRUE,,,,102,67.91170739,,,,,922,Fish, Oil,8,rtford
+239,Vitamin D,Vitamins and supplements,489.53,2.5,3485,113,0.12,1561,1/28/2024,Columbia,TRUE,,,,490,59.03388857,,,,,692,Vita,in D,8,lumbia
+240,Vitamin D,Vitamins and supplements,289.6,1.1,1863,344,0.34,800,06-11-2024,Grand Rapids,FALSE,,,,290,43.16248371,,,,,369,Vita,in D,12,and Ra
+241,Sunscreen,Skin care,471.03,4.3,1327,68,0.29,1981,11-05-2023,Palm Bay,FALSE,,,,471,36.4280112,,,,,283,Suns,reen,8,lm Bay
+242,Cleanser,Skin care,499.71,1.2,3232,680,0.5,780,3/31/2024,Chicago,FALSE,,,,500,56.85068161,,,,,643,Clea,nser,7,icago
+243,Moisturizer,Skin care,287.84,4,1347,609,0.2,493,02-01-2024,McAllen,FALSE,,,,288,36.70149861,,,,,287,Mois,izer,7,Allen
+244,Cleanser,Skin care,224.7,4.6,1000,278,0.22,1354,02-04-2024,Palm Bay,FALSE,,,,225,31.6227766,,,,,213,Clea,nser,8,lm Bay
+245,Toner,Skin care,155.47,3.6,2772,654,0.32,710,1/21/2024,Portland,TRUE,,,,155,52.64978632,,,,,559,Tone,oner,8,rtland
+246,Moisturizer,Skin care,196.41,3.2,1440,304,0.27,290,03-02-2024,Cleveland,TRUE,,,,196,37.94733192,,,,,304,Mois,izer,9,evelan
+247,Cleanser,Skin care,297.66,1.7,2889,961,0.23,1026,3/19/2024,New York,TRUE,,,,298,53.7494186,,,,,578,Clea,nser,8,w York
+248,Cleanser,Skin care,476.22,4.4,1947,628,0.41,664,5/31/2024,Bronx,TRUE,,,,476,44.12482295,,,,,385,Clea,nser,5,onx
+249,Moisturizer,Skin care,205.42,3.3,3371,739,0.3,943,07-05-2023,Provo,TRUE,,,,205,58.06031347,,,,,666,Mois,izer,5,ovo
+250,Cleanser,Skin care,375.97,3.9,1004,20,0.1,1014,07-12-2023,Colorado Springs,TRUE,,,,376,31.68595904,,,,,216,Clea,nser,16,lorado
+251,Sunscreen,Skin care,44.93,4.8,714,50,0.03,788,1/23/2024,Omaha,TRUE,,,,45,26.72077843,,,,,152,Suns,reen,5,aha
+252,Cleanser,Skin care,105.33,1.7,963,372,0.14,1562,01-07-2024,Miami,TRUE,,,,105,31.0322413,,,,,204,Clea,nser,5,ami
+253,Sunscreen,Skin care,270.81,3.3,105,419,0.36,1,3/27/2024,Sacramento,TRUE,,,,271,10.24695077,,,,,23,Suns,reen,10,cramen
+254,Toner,Skin care,413.36,3.1,1286,350,0.43,1062,01-05-2024,Cleveland,FALSE,,,,413,35.86084215,,,,,273,Tone,oner,9,evelan
+255,Sunscreen,Skin care,154.69,4.2,444,297,0.46,1107,9/23/2023,San Juan,FALSE,,,,155,21.07130751,,,,,90,Suns,reen,8,n Juan
+256,Cleanser,Skin care,279.61,1.2,2938,140,0.3,1141,09-09-2023,Orlando,FALSE,,,,280,54.20332093,,,,,586,Clea,nser,7,lando
+257,Cleanser,Skin care,300.83,4.2,9,983,0.21,1660,12/25/2023,Denton,FALSE,,,,301,3,,,,,3,Clea,nser,6,nton
+258,Toner,Skin care,387.27,3.2,4954,292,0.15,663,5/24/2024,Spokane,FALSE,,,,387,70.38465742,,,,,990,Tone,oner,7,okane
+259,Toner,Skin care,217.63,3.7,145,914,0.31,992,10/14/2023,Mesa,FALSE,,,,218,12.04159458,,,,,31,Tone,oner,4,sa
+260,Moisturizer,Skin care,92.33,3.9,1249,672,0.11,661,8/24/2023,Oklahoma City,FALSE,,,,92,35.34119409,,,,,264,Mois,izer,13,lahoma
+261,Sunscreen,Skin care,122.82,1.8,1546,649,0.13,1100,10-02-2023,Portland,FALSE,,,,123,39.3192065,,,,,323,Suns,reen,8,rtland
+262,Moisturizer,Skin care,494.01,1.5,3729,834,0.22,636,12/28/2023,Minneapolis,FALSE,,,,494,61.06553856,,,,,739,Mois,izer,11,nneapo
+263,Moisturizer,Skin care,349.29,5,4795,301,0.05,1241,03-02-2024,Austin,FALSE,,,,349,69.24593851,,,,,964,Mois,izer,6,stin
+264,Cleanser,Skin care,453.71,4.1,4131,743,0.32,1699,3/31/2024,Phoenix,FALSE,,,,454,64.27285586,,,,,818,Clea,nser,7,oenix
+265,Toner,Skin care,189.81,2.4,3046,707,0.22,827,02-03-2024,Bakersfield,FALSE,,,,190,55.19057891,,,,,600,Tone,oner,11,kersfi
+266,Toner,Skin care,402.17,1.9,2823,229,0.3,66,8/17/2023,Riverside,TRUE,,,,402,53.13191132,,,,,565,Tone,oner,9,versid
+267,Moisturizer,Skin care,233.86,1.8,2774,171,0.33,1232,8/26/2023,Reno,TRUE,,,,234,52.66877633,,,,,561,Mois,izer,4,no
+268,Cleanser,Skin care,228.71,2.3,661,811,0.04,452,7/15/2023,Omaha,TRUE,,,,229,25.70992026,,,,,134,Clea,nser,5,aha
+269,Moisturizer,Skin care,348.1,1.8,207,617,0.05,632,4/18/2024,Orlando,TRUE,,,,348,14.38749457,,,,,44,Mois,izer,7,lando
+270,Toner,Skin care,10.61,2.2,3719,979,0.24,1565,10/19/2023,Albany,TRUE,,,,11,60.98360435,,,,,735,Tone,oner,6,bany
+271,Sunscreen,Skin care,205.66,1.6,1540,979,0.46,363,7/27/2023,Sacramento,TRUE,,,,206,39.24283374,,,,,322,Suns,reen,10,cramen
+272,Moisturizer,Skin care,339.06,1.4,4551,742,0.43,1012,9/14/2023,Cleveland,TRUE,,,,339,67.4610999,,,,,903,Mois,izer,9,evelan
+273,Toner,Skin care,393.19,3.8,3725,803,0.15,113,10/19/2023,Tampa,TRUE,,,,393,61.03277808,,,,,737,Tone,oner,5,mpa
+274,Cleanser,Skin care,196.65,2.4,2496,842,0.41,1725,01-10-2024,Raleigh,TRUE,,,,197,49.95998399,,,,,505,Clea,nser,7,leigh
+275,Toner,Skin care,437.93,1.6,405,938,0.29,1339,03-03-2024,Mesa,TRUE,,,,438,20.1246118,,,,,84,Tone,oner,4,sa
+276,Toner,Skin care,112.17,4.7,4137,677,0.41,1826,01-06-2024,Dallas,TRUE,,,,112,64.31951492,,,,,820,Tone,oner,6,llas
+277,Toner,Skin care,270.92,3.9,3138,847,0.11,1549,3/31/2024,Miami,TRUE,,,,271,56.0178543,,,,,621,Tone,oner,5,ami
+278,Sunscreen,Skin care,207.46,1.7,4225,930,0.17,1811,9/30/2023,Richmond,FALSE,,,,207,65,,,,,833,Suns,reen,8,chmond
+279,Cleanser,Skin care,413.02,1.5,4259,94,0.24,1133,07-12-2023,Milwaukee,FALSE,,,,413,65.2610144,,,,,841,Clea,nser,9,lwauke
+280,Cleanser,Skin care,416.37,2.3,2530,936,0.41,1676,2/16/2024,Sacramento,FALSE,,,,416,50.29910536,,,,,513,Clea,nser,10,cramen
+281,Mascara,Makeup,43.4,1.1,536,78,0.48,1979,5/31/2024,Akron,FALSE,,,,43,23.15167381,,,,,106,Masc,cara,5,ron
+282,Blush,Makeup,69.8,3.4,542,845,0.44,988,08-01-2023,Columbus,FALSE,,,,70,23.28089345,,,,,109,Blus,lush,8,lumbus
+283,Lipstick,Makeup,324,1.9,4349,129,0.33,466,8/30/2023,Palm Bay,FALSE,,,,324,65.94694838,,,,,863,Lips,tick,8,lm Bay
+284,Lipstick,Makeup,286.58,1.8,4737,381,0.5,1276,4/17/2024,Albany,FALSE,,,,287,68.82586723,,,,,954,Lips,tick,6,bany
+285,Lipstick,Makeup,492,2,4244,328,0.39,1517,9/23/2023,Akron,FALSE,,,,492,65.1459899,,,,,838,Lips,tick,5,ron
+286,Blush,Makeup,348.89,3.5,1638,551,0.41,1382,08-09-2023,Atlanta,FALSE,,,,349,40.47221269,,,,,338,Blus,lush,7,lanta
+287,Foundation,Makeup,315.71,3.1,3302,689,0.07,1651,12-04-2023,Oklahoma City,FALSE,,,,316,57.46303159,,,,,653,Foun,tion,13,lahoma
+288,Mascara,Makeup,330.5,2.4,2139,981,0.41,1764,3/18/2024,Detroit,FALSE,,,,331,46.24932432,,,,,423,Masc,cara,7,troit
+289,Foundation,Makeup,15.41,2.7,2293,741,0.13,649,08-03-2023,New York,FALSE,,,,15,47.88527958,,,,,456,Foun,tion,8,w York
+290,Blush,Makeup,272.3,1.9,2009,241,0.31,1716,07-10-2023,Madison,TRUE,,,,272,44.82186966,,,,,395,Blus,lush,7,dison
+291,Foundation,Makeup,480.19,3,3042,496,0.27,702,08-09-2023,Providence,TRUE,,,,480,55.15432893,,,,,599,Foun,tion,10,oviden
+292,Blush,Makeup,58.06,3,545,563,0.12,593,10/24/2023,Jacksonville,TRUE,,,,58,23.34523506,,,,,110,Blus,lush,12,cksonv
+293,Lipstick,Makeup,194.19,2.6,3493,553,0.39,396,2/20/2024,Columbia,TRUE,,,,194,59.10160742,,,,,696,Lips,tick,8,lumbia
+294,Foundation,Makeup,60.05,3.6,424,128,0.4,1583,5/14/2024,Milwaukee,TRUE,,,,60,20.59126028,,,,,89,Foun,tion,9,lwauke
+295,Foundation,Makeup,422.03,1.2,2279,788,0.41,758,8/27/2023,Richmond,TRUE,,,,422,47.73887305,,,,,453,Foun,tion,8,chmond
+296,Blush,Makeup,448.61,3.5,78,912,0.03,855,12/22/2023,Des Moines,TRUE,,,,449,8.831760866,,,,,20,Blus,lush,10,s Moin
+297,Lipstick,Makeup,61.79,5,2148,7,0.02,1528,3/17/2024,Queens,TRUE,,,,62,46.34652091,,,,,425,Lips,tick,6,eens
+298,Lipstick,Makeup,332.93,4.2,2711,16,0.48,276,10/24/2023,Birmingham,TRUE,,,,333,52.06726419,,,,,544,Lips,tick,10,rmingh
+299,Mascara,Makeup,236.35,5,4531,398,0.47,498,5/15/2024,Austin,TRUE,,,,236,67.31270311,,,,,899,Masc,cara,6,stin
+300,Lipstick,Makeup,95.31,1.4,2037,351,0.03,137,05-05-2024,Bakersfield,FALSE,,,,95,45.13313639,,,,,399,Lips,tick,11,kersfi
+301,Lipstick,Makeup,50.26,4.9,1246,647,0.38,920,7/19/2023,Mesa,FALSE,,,,50,35.29872519,,,,,261,Lips,tick,4,sa
+302,Mascara,Makeup,337,1,1827,381,0.13,1640,12/26/2023,McAllen,FALSE,,,,337,42.74342055,,,,,365,Masc,cara,7,Allen
+303,Foundation,Makeup,269.85,1.2,369,777,0.4,651,07-01-2023,Palm Bay,FALSE,,,,270,19.20937271,,,,,72,Foun,tion,8,lm Bay
+304,Blush,Makeup,65.84,2.9,3983,287,0.31,1249,06-01-2024,Cleveland,FALSE,,,,66,63.1110133,,,,,787,Blus,lush,9,evelan
+305,Mascara,Makeup,175.75,4.7,2230,968,0.19,1850,7/14/2023,Raleigh,FALSE,,,,176,47.22287581,,,,,447,Masc,cara,7,leigh
+306,Blush,Makeup,200.44,1.7,4083,413,0.46,1195,8/29/2023,San Diego,FALSE,,,,200,63.89835679,,,,,808,Blus,lush,9,n Dieg
+307,Lipstick,Makeup,444.59,3.6,4066,121,0.41,1654,05-04-2024,Mission Viejo,FALSE,,,,445,63.76519427,,,,,804,Lips,tick,13,ssion 
+308,Foundation,Makeup,136.63,3.2,2196,396,0.11,1661,8/15/2023,Detroit,FALSE,,,,137,46.86149806,,,,,439,Foun,tion,7,troit
+309,Blush,Makeup,283.33,1.7,1759,202,0.16,661,10/21/2023,Providence,FALSE,,,,283,41.94043395,,,,,357,Blus,lush,10,oviden
+310,Foundation,Makeup,469.32,1.2,3537,769,0.07,462,09-03-2023,Madison,FALSE,,,,469,59.4726828,,,,,704,Foun,tion,7,dison
+311,Mascara,Makeup,114.62,3,4183,43,0.37,1706,12-06-2023,Hartford,FALSE,,,,115,64.67611615,,,,,828,Masc,cara,8,rtford
+312,Foundation,Makeup,259.1,2.2,2066,22,0.34,1830,2/25/2024,Tucson,TRUE,,,,259,45.45327271,,,,,414,Foun,tion,6,cson
+313,Lipstick,Makeup,439.8,2.7,361,185,0,128,6/14/2023,Mesa,TRUE,,,,440,19,,,,,71,Lips,tick,4,sa
+314,Foundation,Makeup,441.91,2.1,1855,873,0.33,472,06-02-2024,Manhattan,TRUE,,,,442,43.06971093,,,,,368,Foun,tion,9,nhatta
+315,Foundation,Makeup,369.2,3.5,922,65,0.18,1036,3/18/2024,San Francisco,TRUE,,,,369,30.3644529,,,,,189,Foun,tion,13,n Fran
+316,Mascara,Makeup,382.89,1.1,2256,973,0.1,1441,5/23/2024,Phoenix,TRUE,,,,383,47.49736835,,,,,449,Masc,cara,7,oenix
+317,Lipstick,Makeup,380.57,4.4,3895,210,0.5,131,2/22/2024,Hartford,TRUE,,,,381,62.40993511,,,,,771,Lips,tick,8,rtford
+318,Foundation,Makeup,325.25,4.1,1013,226,0.07,1765,08-07-2023,Mesa,TRUE,,,,325,31.82766093,,,,,218,Foun,tion,4,sa
+319,Blush,Makeup,97.4,1.1,4283,56,0.19,272,2/14/2024,Salt Lake City,FALSE,,,,97,65.44463309,,,,,850,Blus,lush,14,lt Lak
+320,Lipstick,Makeup,245.68,3.6,4431,697,0.28,899,10-02-2023,Hartford,FALSE,,,,246,66.56575696,,,,,879,Lips,tick,8,rtford
+321,Denim Jacket,Coats and jackets,341.47,4.2,3259,59,0.16,1342,11/14/2023,Palm Bay,FALSE,,,,341,57.0876519,,,,,649,Deni,cket,8,lm Bay
+322,Rain Jacket,Coats and jackets,350.75,4,2974,867,0.26,431,12/22/2023,Chicago,FALSE,,,,351,54.53439282,,,,,590,Rain,cket,7,icago
+323,Denim Jacket,Coats and jackets,69.96,3.9,2528,145,0.19,1136,10-05-2023,Provo,FALSE,,,,70,50.27922036,,,,,512,Deni,cket,5,ovo
+324,Denim Jacket,Coats and jackets,370.47,5,1019,117,0.32,400,11/27/2023,McAllen,TRUE,,,,370,31.9217794,,,,,220,Deni,cket,7,Allen
+325,Denim Jacket,Coats and jackets,253.12,1.7,398,709,0.5,123,3/29/2024,Concord,TRUE,,,,253,19.94993734,,,,,82,Deni,cket,7,ncord
+326,Leather Jacket,Coats and jackets,290.22,3.4,499,572,0.49,1794,2/26/2024,San Juan,TRUE,,,,290,22.3383079,,,,,97,Leat,cket,8,n Juan
+327,Winter Coat,Coats and jackets,297.05,3.3,2757,848,0.46,562,10-11-2023,Hartford,TRUE,,,,297,52.50714237,,,,,556,Wint,Coat,8,rtford
+328,Leather Jacket,Coats and jackets,137.06,2.7,4676,348,0.23,48,3/30/2024,Cape Coral,TRUE,,,,137,68.38128399,,,,,942,Leat,cket,10,pe Cor
+329,Denim Jacket,Coats and jackets,246.65,1.5,3331,637,0.36,1009,02-04-2024,Indianapolis,TRUE,,,,247,57.71481612,,,,,657,Deni,cket,12,dianap
+330,Denim Jacket,Coats and jackets,367.46,4.1,685,827,0.07,1592,05-12-2024,Boise,TRUE,,,,367,26.17250466,,,,,142,Deni,cket,5,ise
+331,Denim Jacket,Coats and jackets,331.91,4.8,1431,875,0.02,1365,11-05-2023,Des Moines,TRUE,,,,332,37.82856064,,,,,303,Deni,cket,10,s Moin
+332,Leather Jacket,Coats and jackets,131.02,4.6,631,905,0.14,1205,2/27/2024,Concord,TRUE,,,,131,25.11971337,,,,,130,Leat,cket,7,ncord
+333,Winter Coat,Coats and jackets,390.59,1.3,1719,618,0.03,249,6/15/2023,Rochester,FALSE,,,,391,41.46082488,,,,,349,Wint,Coat,9,cheste
+334,Winter Coat,Coats and jackets,179.5,2.3,3141,638,0.12,671,10-08-2023,Charlotte,FALSE,,,,180,56.04462508,,,,,622,Wint,Coat,9,arlott
+335,Leather Jacket,Coats and jackets,482.06,3.2,1449,665,0.21,895,1/22/2024,Des Moines,FALSE,,,,482,38.06573262,,,,,306,Leat,cket,10,s Moin
+336,Winter Coat,Coats and jackets,252.3,4.9,3652,130,0.36,1956,08-12-2023,Akron,FALSE,,,,252,60.43177972,,,,,723,Wint,Coat,5,ron
+337,Leather Jacket,Coats and jackets,161.26,4.8,1931,444,0.06,1201,2/16/2024,Harrisburg,FALSE,,,,161,43.94314509,,,,,383,Leat,cket,10,rrisbu
+338,Denim Jacket,Coats and jackets,214.82,1.4,597,288,0.26,1596,04-12-2024,Boise,FALSE,,,,215,24.43358345,,,,,124,Deni,cket,5,ise
+339,Rain Jacket,Coats and jackets,207.95,3.2,3669,176,0.27,965,11/27/2023,Chicago,FALSE,,,,208,60.57227088,,,,,727,Rain,cket,7,icago
+340,Rain Jacket,Coats and jackets,247.5,1.7,1537,21,0.42,1089,7/18/2023,Kansas City,FALSE,,,,248,39.20459157,,,,,321,Rain,cket,11,nsas C
+341,Rain Jacket,Coats and jackets,432.37,2.8,3750,85,0.15,1959,8/23/2023,Spokane,FALSE,,,,432,61.23724357,,,,,744,Rain,cket,7,okane
+342,Denim Jacket,Coats and jackets,184.43,4.9,2290,830,0.25,31,09-09-2023,Bridgeport,FALSE,,,,184,47.85394446,,,,,455,Deni,cket,10,idgepo
+343,Denim Jacket,Coats and jackets,276.98,4,4979,213,0.01,743,11-12-2023,Springfield,FALSE,,,,277,70.56202945,,,,,996,Deni,cket,11,ringfi
+344,Leather Jacket,Coats and jackets,441,4.5,3048,679,0.49,1049,04-07-2024,Atlanta,FALSE,,,,441,55.20869497,,,,,601,Leat,cket,7,lanta
+345,Winter Coat,Coats and jackets,56.13,2.4,1067,96,0.2,226,9/24/2023,Virginia Beach,TRUE,,,,56,32.66496594,,,,,225,Wint,Coat,14,rginia
+346,Leather Jacket,Coats and jackets,331.82,4.3,4402,778,0.1,1609,06-04-2024,Rochester,TRUE,,,,332,66.34756966,,,,,872,Leat,cket,9,cheste
+347,Denim Jacket,Coats and jackets,184.77,4,484,596,0.16,904,4/26/2024,Oakland,TRUE,,,,185,22,,,,,95,Deni,cket,7,kland
+348,Leather Jacket,Coats and jackets,458.39,3.1,4563,453,0.4,774,07-12-2023,New York,TRUE,,,,458,67.5499815,,,,,906,Leat,cket,8,w York
+349,Leather Jacket,Coats and jackets,187.92,4.6,1898,39,0.25,219,02-04-2024,Kansas City,TRUE,,,,188,43.56604182,,,,,375,Leat,cket,11,nsas C
+350,Leather Jacket,Coats and jackets,100.27,4.6,687,618,0.16,989,10-10-2023,Pittsburgh,TRUE,,,,100,26.21068484,,,,,143,Leat,cket,10,ttsbur
+351,Leather Jacket,Coats and jackets,442.38,4.2,3958,15,0.49,1132,5/22/2024,Las Vegas,TRUE,,,,442,62.91263784,,,,,780,Leat,cket,9,s Vega
+352,Rain Jacket,Coats and jackets,320.99,1.7,1125,505,0.21,246,02-05-2024,Akron,TRUE,,,,321,33.54101966,,,,,234,Rain,cket,5,ron
+353,Leather Jacket,Coats and jackets,346.56,1.4,2243,792,0.41,1689,1/31/2024,Little Rock,TRUE,,,,347,47.36032094,,,,,448,Leat,cket,11,ttle R
+354,Leather Jacket,Coats and jackets,101.83,4.4,1395,485,0.27,210,4/13/2024,Spokane,TRUE,,,,102,37.34969879,,,,,296,Leat,cket,7,okane
+355,Denim Jacket,Coats and jackets,494.15,4.6,1899,456,0.18,1249,02-02-2024,Tampa,TRUE,,,,494,43.57751714,,,,,376,Deni,cket,5,mpa
+356,Denim Jacket,Coats and jackets,174.25,1.7,3348,155,0.41,189,01-01-2024,Dallas,TRUE,,,,174,57.86190457,,,,,662,Deni,cket,6,llas
+357,Denim Jacket,Coats and jackets,453.63,4,4433,313,0.31,278,12/19/2023,Concord,FALSE,,,,454,66.58077801,,,,,880,Deni,cket,7,ncord
+358,Denim Jacket,Coats and jackets,182.66,4.4,1674,861,0.49,930,8/28/2023,Austin,FALSE,,,,183,40.91454509,,,,,343,Deni,cket,6,stin
+359,Denim Jacket,Coats and jackets,372.25,1.4,4578,935,0,1070,11/24/2023,Bakersfield,FALSE,,,,372,67.6609193,,,,,914,Deni,cket,11,kersfi
+360,Denim Jacket,Coats and jackets,121.32,4.3,854,639,0.32,515,8/14/2023,Philadelphia,FALSE,,,,121,29.22327839,,,,,170,Deni,cket,12,iladel
+361,Road Bike,Bicycles,186.59,1.3,1336,628,0.2,1677,05-04-2024,Columbia,FALSE,,,,187,36.55133376,,,,,285,Road,Bike,8,lumbia
+362,Mountain Bike,Bicycles,396.34,3.7,2257,114,0.45,1274,11-06-2023,Omaha,FALSE,,,,396,47.50789408,,,,,450,Moun,Bike,5,aha
+363,Hybrid Bike,Bicycles,92.85,2.6,2597,141,0.43,839,12-05-2023,New Orleans,FALSE,,,,93,50.96076922,,,,,525,Hybr,Bike,11,w Orle
+364,Hybrid Bike,Bicycles,212.25,4.2,595,880,0.02,855,9/16/2023,Detroit,FALSE,,,,212,24.39262184,,,,,121,Hybr,Bike,7,troit
+365,Road Bike,Bicycles,483.46,1.5,4088,82,0.49,898,09-11-2023,Harrisburg,FALSE,,,,483,63.93746945,,,,,810,Road,Bike,10,rrisbu
+366,Mountain Bike,Bicycles,421.34,4.9,3789,62,0.28,1659,02-12-2024,El Paso,FALSE,,,,421,61.55485359,,,,,748,Moun,Bike,7, Paso
+367,Electric Bike,Bicycles,321.19,2.8,1143,933,0.06,675,8/31/2023,Sacramento,FALSE,,,,321,33.80828301,,,,,242,Elec,Bike,10,cramen
+368,Mountain Bike,Bicycles,16.08,2.9,4916,738,0.11,333,11-03-2023,Charlotte,FALSE,,,,16,70.11419257,,,,,985,Moun,Bike,9,arlott
+369,Mountain Bike,Bicycles,33.59,4.6,4008,631,0.09,694,5/27/2024,Allentown,FALSE,,,,34,63.30876717,,,,,796,Moun,Bike,9,lentow
+370,Mountain Bike,Bicycles,420.69,2.1,2315,34,0.13,493,4/23/2024,Bonita Springs,FALSE,,,,421,48.11444689,,,,,464,Moun,Bike,14,nita S
+371,Mountain Bike,Bicycles,265.51,1.3,1299,868,0.3,1952,11/24/2023,Oklahoma City,FALSE,,,,266,36.04164258,,,,,275,Moun,Bike,13,lahoma
+372,Mountain Bike,Bicycles,26,4.5,4577,727,0.48,1031,8/16/2023,Palm Bay,FALSE,,,,26,67.6535291,,,,,913,Moun,Bike,8,lm Bay
+373,Hybrid Bike,Bicycles,220.91,2.3,3659,173,0.39,1896,1/17/2024,Oakland,FALSE,,,,221,60.48966854,,,,,724,Hybr,Bike,7,kland
+374,Road Bike,Bicycles,90.76,1.7,1573,787,0.39,178,02-01-2024,Riverside,FALSE,,,,91,39.66106403,,,,,328,Road,Bike,9,versid
+375,Hybrid Bike,Bicycles,261.06,1.4,578,853,0.13,1185,07-01-2023,Colorado Springs,FALSE,,,,261,24.04163056,,,,,118,Hybr,Bike,16,lorado
+376,Hybrid Bike,Bicycles,492.08,2.1,4005,261,0.45,1745,04-12-2024,Rochester,FALSE,,,,492,63.28506933,,,,,794,Hybr,Bike,9,cheste
+377,Electric Bike,Bicycles,306,4.6,3451,361,0.49,92,2/24/2024,San Francisco,FALSE,,,,306,58.74521257,,,,,684,Elec,Bike,13,n Fran
+378,Mountain Bike,Bicycles,315.03,2.9,1455,748,0.24,1712,1/23/2024,Richmond,TRUE,,,,315,38.14446225,,,,,308,Moun,Bike,8,chmond
+379,Mountain Bike,Bicycles,12.7,1,1213,135,0.02,891,6/25/2023,Albuquerque,TRUE,,,,13,34.82814953,,,,,254,Moun,Bike,11,buquer
+380,Road Bike,Bicycles,236.8,2.8,703,317,0.2,1845,10/23/2023,Harrisburg,TRUE,,,,237,26.51414717,,,,,150,Road,Bike,10,rrisbu
+381,Mountain Bike,Bicycles,410.17,2.1,855,788,0.17,1958,12-12-2023,San Francisco,TRUE,,,,410,29.24038303,,,,,171,Moun,Bike,13,n Fran
+382,Mountain Bike,Bicycles,24.54,3.7,1517,658,0.23,126,4/27/2024,Miami,TRUE,,,,25,38.94868419,,,,,318,Moun,Bike,5,ami
+383,Mountain Bike,Bicycles,203.34,2.7,3403,583,0.45,1132,9/18/2023,New Haven,TRUE,,,,203,58.33523806,,,,,674,Moun,Bike,9,w Have
+384,Mountain Bike,Bicycles,161.59,4.3,987,249,0.36,1176,07-01-2023,Baltimore,TRUE,,,,162,31.41655614,,,,,208,Moun,Bike,9,ltimor
+385,Road Bike,Bicycles,35.06,2,726,688,0.3,849,1/18/2024,Richmond,TRUE,,,,35,26.94438717,,,,,153,Road,Bike,8,chmond
+386,Road Bike,Bicycles,335.99,4.2,419,593,0.05,1774,3/20/2024,Reno,TRUE,,,,336,20.46948949,,,,,88,Road,Bike,4,no
+387,Mountain Bike,Bicycles,44.79,1.3,2702,40,0.47,958,09-01-2023,Colorado Springs,TRUE,,,,45,51.98076567,,,,,542,Moun,Bike,16,lorado
+388,Mountain Bike,Bicycles,326.76,4.6,1996,265,0.25,562,2/15/2024,Palm Bay,FALSE,,,,327,44.67661581,,,,,393,Moun,Bike,8,lm Bay
+389,Mountain Bike,Bicycles,310.16,4.5,3155,453,0.06,1537,03-11-2024,Oklahoma City,FALSE,,,,310,56.16938668,,,,,625,Moun,Bike,13,lahoma
+390,Road Bike,Bicycles,416.22,5,4008,267,0.15,1856,08-06-2023,Austin,FALSE,,,,416,63.30876717,,,,,796,Road,Bike,6,stin
+391,Mountain Bike,Bicycles,205.69,4.6,4669,48,0.11,920,09-07-2023,New Orleans,FALSE,,,,206,68.33008122,,,,,939,Moun,Bike,11,w Orle
+392,Electric Bike,Bicycles,329.62,4.4,1130,657,0.2,1452,3/31/2024,New Orleans,FALSE,,,,330,33.61547263,,,,,237,Elec,Bike,11,w Orle
+393,Mountain Bike,Bicycles,432.25,3.4,3435,865,0.19,194,01-08-2024,Jacksonville,FALSE,,,,432,58.60887305,,,,,681,Moun,Bike,12,cksonv
+394,Electric Bike,Bicycles,459.15,2.7,359,74,0.29,1848,2/15/2024,Richmond,FALSE,,,,459,18.94729532,,,,,70,Elec,Bike,8,chmond
+395,Electric Bike,Bicycles,202.56,3.1,3361,439,0.08,6,11/29/2023,Las Vegas,TRUE,,,,203,57.97413216,,,,,664,Elec,Bike,9,s Vega
+396,Mountain Bike,Bicycles,446.15,2.4,3219,786,0.01,1467,02-07-2024,Brooklyn,TRUE,,,,446,56.73623181,,,,,639,Moun,Bike,8,ooklyn
+397,Hybrid Bike,Bicycles,162.5,3.7,929,687,0.11,1227,7/27/2023,Boise,TRUE,,,,163,30.47950131,,,,,192,Hybr,Bike,5,ise
+398,Hybrid Bike,Bicycles,347.25,1.6,1399,343,0.25,74,4/28/2024,Birmingham,TRUE,,,,347,37.40320842,,,,,300,Hybr,Bike,10,rmingh
+399,Electric Bike,Bicycles,58.66,1.8,4458,447,0.21,1586,08-11-2023,Memphis,TRUE,,,,59,66.76825593,,,,,883,Elec,Bike,7,mphis
+400,Road Bike,Bicycles,380.54,2.8,4637,937,0.45,124,05-06-2024,Cincinnati,TRUE,,,,381,68.09552114,,,,,927,Road,Bike,10,ncinna
+401,Sketchbook,Art and crafting materials,193.65,2.9,785,200,0.49,76,4/14/2024,El Paso,TRUE,,,,194,28.01785145,,,,,159,Sket,book,7, Paso
+402,Brushes,Art and crafting materials,84.28,1.1,3807,277,0.27,1188,08-12-2023,Baton Rouge,TRUE,,,,84,61.7008914,,,,,754,Brus,shes,11,ton Ro
+403,Paint Set,Art and crafting materials,275.44,4,2390,946,0.18,1377,2/24/2024,Baltimore,TRUE,,,,275,48.88762625,,,,,479,Pain, Set,9,ltimor
+404,Brushes,Art and crafting materials,96.81,3,382,532,0.48,358,7/24/2023,Portland,TRUE,,,,97,19.54482029,,,,,80,Brus,shes,8,rtland
+405,Brushes,Art and crafting materials,90.97,3.3,1134,865,0.24,434,9/13/2023,Detroit,TRUE,,,,91,33.67491648,,,,,239,Brus,shes,7,troit
+406,Brushes,Art and crafting materials,441.35,3.5,3735,761,0.23,998,07-07-2023,Las Vegas,TRUE,,,,441,61.11464636,,,,,741,Brus,shes,9,s Vega
+407,Canvas,Art and crafting materials,29.34,2.9,2211,885,0.11,63,3/13/2024,Knoxville,TRUE,,,,29,47.02127178,,,,,442,Canv,nvas,9,oxvill
+408,Paint Set,Art and crafting materials,303.57,2.4,3630,139,0.02,1781,06-07-2024,Oklahoma City,FALSE,,,,304,60.24948133,,,,,720,Pain, Set,13,lahoma
+409,Paint Set,Art and crafting materials,343.57,2.9,882,146,0.26,619,10/20/2023,Miami,FALSE,,,,344,29.69848481,,,,,176,Pain, Set,5,ami
+410,Canvas,Art and crafting materials,433.14,3.4,1610,416,0.28,406,11/22/2023,Denver,FALSE,,,,433,40.1248053,,,,,334,Canv,nvas,6,nver
+411,Canvas,Art and crafting materials,251.24,3.3,3802,81,0.22,1710,10/17/2023,Queens,FALSE,,,,251,61.66036004,,,,,752,Canv,nvas,6,eens
+412,Canvas,Art and crafting materials,405.23,2.9,2558,328,0.03,940,07-11-2023,New Haven,FALSE,,,,405,50.57667447,,,,,519,Canv,nvas,9,w Have
+413,Paint Set,Art and crafting materials,425.01,4.6,2490,836,0.26,1517,12-06-2023,Houston,FALSE,,,,425,49.8998998,,,,,503,Pain, Set,7,uston
+414,Brushes,Art and crafting materials,369.67,4.1,4117,348,0.02,1858,4/19/2024,Virginia Beach,FALSE,,,,370,64.16385275,,,,,815,Brus,shes,14,rginia
+415,Sketchbook,Art and crafting materials,75.87,2.2,1999,203,0.4,1687,05-08-2024,Chicago,TRUE,,,,76,44.71017781,,,,,394,Sket,book,7,icago
+416,Canvas,Art and crafting materials,269,4.2,3234,18,0.1,793,2/20/2024,Staten Island,TRUE,,,,269,56.86826883,,,,,644,Canv,nvas,13,aten I
+417,Canvas,Art and crafting materials,154.36,1.1,1088,291,0.42,0,05-06-2024,San Diego,TRUE,,,,154,32.984845,,,,,229,Canv,nvas,9,n Dieg
+418,Paint Set,Art and crafting materials,379.18,4.1,200,126,0.44,546,12-01-2023,Long Beach,TRUE,,,,379,14.14213562,,,,,42,Pain, Set,10,ng Bea
+419,Brushes,Art and crafting materials,53.42,3,413,990,0.03,1378,04-01-2024,Oakland,TRUE,,,,53,20.32240143,,,,,85,Brus,shes,7,kland
+420,Brushes,Art and crafting materials,319.72,3.3,2015,289,0,82,02-10-2024,Toledo,TRUE,,,,320,44.88875137,,,,,397,Brus,shes,6,ledo
+421,Sketchbook,Art and crafting materials,156.79,1.3,2422,161,0.4,1679,6/20/2023,Charlotte,TRUE,,,,157,49.2138192,,,,,489,Sket,book,9,arlott
+422,Canvas,Art and crafting materials,81.15,3.8,2158,926,0.12,294,11-10-2023,Albuquerque,TRUE,,,,81,46.4542786,,,,,431,Canv,nvas,11,buquer
+423,Sketchbook,Art and crafting materials,84.64,2.1,3701,732,0.29,1830,7/27/2023,Kansas City,TRUE,,,,85,60.8358447,,,,,734,Sket,book,11,nsas C
+424,Paint Set,Art and crafting materials,323.83,4.9,1556,402,0.18,1336,09-05-2023,Cincinnati,TRUE,,,,324,39.44616585,,,,,327,Pain, Set,10,ncinna
+425,Sketchbook,Art and crafting materials,102.04,3.9,1589,563,0.32,1905,5/29/2024,Bonita Springs,TRUE,,,,102,39.86226286,,,,,331,Sket,book,14,nita S
+426,Sketchbook,Art and crafting materials,359.84,4.3,2307,204,0.46,775,5/31/2024,San Jose,TRUE,,,,360,48.03123983,,,,,462,Sket,book,8,n Jose
+427,Brushes,Art and crafting materials,87.73,4.5,4449,638,0.03,1739,4/24/2024,Cincinnati,TRUE,,,,88,66.70082458,,,,,881,Brus,shes,10,ncinna
+428,Brushes,Art and crafting materials,60.35,1.8,1884,153,0.36,1749,8/23/2023,Phoenix,TRUE,,,,60,43.40506883,,,,,372,Brus,shes,7,oenix
+429,Paint Set,Art and crafting materials,40.72,4.4,2437,324,0.47,1855,01-07-2024,Grand Rapids,TRUE,,,,41,49.36598019,,,,,494,Pain, Set,12,and Ra
+430,Canvas,Art and crafting materials,59.93,2.4,4232,922,0.43,1475,03-04-2024,Washington,TRUE,,,,60,65.05382387,,,,,834,Canv,nvas,10,shingt
+431,Sketchbook,Art and crafting materials,447.02,2.7,2224,197,0.19,1995,12/16/2023,San Juan,FALSE,,,,447,47.15930449,,,,,445,Sket,book,8,n Juan
+432,Paint Set,Art and crafting materials,66.85,1.2,1948,928,0.47,1752,2/13/2024,Baton Rouge,FALSE,,,,67,44.13615298,,,,,386,Pain, Set,11,ton Ro
+433,Brushes,Art and crafting materials,12.14,1.7,3988,234,0.33,928,5/19/2024,Harrisburg,FALSE,,,,12,63.15061362,,,,,790,Brus,shes,10,rrisbu
+434,Canvas,Art and crafting materials,73.5,3.7,4888,605,0.13,1875,11/14/2023,Charlotte,FALSE,,,,74,69.91423317,,,,,980,Canv,nvas,9,arlott
+435,Canvas,Art and crafting materials,499.74,1.4,2587,552,0.24,1519,1/18/2024,San Jose,FALSE,,,,500,50.8625599,,,,,522,Canv,nvas,8,n Jose
+436,Canvas,Art and crafting materials,190.67,2.5,891,454,0.38,209,10/27/2023,Grand Rapids,FALSE,,,,191,29.84962311,,,,,181,Canv,nvas,12,and Ra
+437,Paint Set,Art and crafting materials,213.74,3.9,4744,328,0.43,1845,03-04-2024,Raleigh,FALSE,,,,214,68.87670143,,,,,955,Pain, Set,7,leigh
+438,Paint Set,Art and crafting materials,379.47,1.1,3976,727,0.47,1827,09-12-2023,Virginia Beach,FALSE,,,,379,63.05553108,,,,,783,Pain, Set,14,rginia
+439,Brushes,Art and crafting materials,164.66,3.6,3220,539,0.36,1461,04-08-2024,Boise,FALSE,,,,165,56.74504384,,,,,640,Brus,shes,5,ise
+440,Canvas,Art and crafting materials,51.82,1.2,1548,312,0.41,53,1/26/2024,Portland,FALSE,,,,52,39.34463115,,,,,326,Canv,nvas,8,rtland
+441,Coffee Mug,Drinkware,141.12,4.3,4653,524,0.19,1815,9/28/2023,Staten Island,FALSE,,,,141,68.21290201,,,,,932,Coff, Mug,13,aten I
+442,Water Bottle,Drinkware,357.6,4.8,674,920,0.37,613,5/26/2024,Bakersfield,FALSE,,,,358,25.96150997,,,,,138,Wate,ttle,11,kersfi
+443,Tea Cup,Drinkware,301.61,1,4266,408,0.48,1211,07-02-2023,Detroit,TRUE,,,,302,65.31462317,,,,,844,Tea , Cup,7,troit
+444,Water Bottle,Drinkware,383.53,2.8,2831,686,0.11,1627,12-09-2023,Mission Viejo,TRUE,,,,384,53.20714238,,,,,569,Wate,ttle,13,ssion 
+445,Tea Cup,Drinkware,71.52,1.1,2222,733,0.18,1444,1/30/2024,Allentown,TRUE,,,,72,47.138095,,,,,444,Tea , Cup,9,lentow
+446,Wine Glass,Drinkware,18.6,2.2,32,54,0.26,755,08-04-2023,Columbus,TRUE,,,,19,5.656854249,,,,,10,Wine,lass,8,lumbus
+447,Water Bottle,Drinkware,289.62,3.3,4579,972,0.49,622,08-10-2023,Fresno,TRUE,,,,290,67.66830868,,,,,915,Wate,ttle,6,esno
+448,Coffee Mug,Drinkware,278.01,4.3,3030,728,0.15,1068,11-11-2023,Des Moines,TRUE,,,,278,55.04543578,,,,,597,Coff, Mug,10,s Moin
+449,Wine Glass,Drinkware,158.43,1.3,488,156,0.12,411,11/20/2023,Los Angeles,TRUE,,,,158,22.09072203,,,,,96,Wine,lass,11,s Ange
+450,Wine Glass,Drinkware,39.26,3.7,515,601,0.5,630,1/31/2024,Kansas City,FALSE,,,,39,22.69361144,,,,,103,Wine,lass,11,nsas C
+451,Tea Cup,Drinkware,495.75,3.2,3871,539,0.39,1552,4/14/2024,Concord,FALSE,,,,496,62.21736092,,,,,769,Tea , Cup,7,ncord
+452,Water Bottle,Drinkware,105.96,1.6,25,24,0.39,1324,07-09-2023,Worcester,FALSE,,,,106,5,,,,,8,Wate,ttle,9,rceste
+453,Wine Glass,Drinkware,491.01,3.1,3483,970,0.13,1072,12/20/2023,Concord,FALSE,,,,491,59.01694672,,,,,690,Wine,lass,7,ncord
+454,Tea Cup,Drinkware,175.3,3.9,1592,558,0.03,685,10/14/2023,Orlando,FALSE,,,,175,39.89987469,,,,,332,Tea , Cup,7,lando
+455,Water Bottle,Drinkware,82.18,1,2295,565,0.21,421,10/30/2023,Palm Bay,TRUE,,,,82,47.90615827,,,,,459,Wate,ttle,8,lm Bay
+456,Wine Glass,Drinkware,183.59,4.8,2500,389,0.14,597,11/15/2023,Springfield,TRUE,,,,184,50,,,,,506,Wine,lass,11,ringfi
+457,Water Bottle,Drinkware,277.82,2.7,1757,2,0.08,1116,06-04-2024,Boise,TRUE,,,,278,41.91658383,,,,,356,Wate,ttle,5,ise
+458,Tea Cup,Drinkware,449.86,3.7,3823,330,0.4,1546,6/27/2023,Phoenix,TRUE,,,,450,61.83041323,,,,,760,Tea , Cup,7,oenix
+459,Tea Cup,Drinkware,332.97,1.4,4675,866,0.25,695,7/28/2023,Dayton,TRUE,,,,333,68.37397166,,,,,940,Tea , Cup,6,yton
+460,Wine Glass,Drinkware,490.76,3.3,356,600,0.46,310,6/20/2023,Minneapolis,TRUE,,,,491,18.86796226,,,,,69,Wine,lass,11,nneapo
+461,Water Bottle,Drinkware,16.38,1.1,619,882,0.37,124,6/24/2023,Cleveland,TRUE,,,,16,24.87971061,,,,,128,Wate,ttle,9,evelan
+462,Coffee Mug,Drinkware,480.47,3.1,929,246,0.2,361,06-04-2024,Des Moines,TRUE,,,,480,30.47950131,,,,,192,Coff, Mug,10,s Moin
+463,Water Bottle,Drinkware,361.98,2,4282,595,0.28,1877,03-11-2024,Bonita Springs,TRUE,,,,362,65.4369926,,,,,849,Wate,ttle,14,nita S
+464,Water Bottle,Drinkware,305.5,4.3,3619,612,0.19,1179,10-01-2023,Seattle,FALSE,,,,306,60.15812497,,,,,717,Wate,ttle,7,attle
+465,Wine Glass,Drinkware,32.57,4.2,4967,321,0.26,943,3/13/2024,Sacramento,FALSE,,,,33,70.47694659,,,,,993,Wine,lass,10,cramen
+466,Water Bottle,Drinkware,220.06,1.1,3947,652,0,739,9/21/2023,Bridgeport,FALSE,,,,220,62.8251542,,,,,778,Wate,ttle,10,idgepo
+467,Water Bottle,Drinkware,204.94,4.7,2176,671,0.26,326,10/15/2023,Wichita,FALSE,,,,205,46.64761516,,,,,434,Wate,ttle,7,chita
+468,Wine Glass,Drinkware,202.3,4,3696,358,0.29,717,5/26/2024,Akron,FALSE,,,,202,60.79473661,,,,,730,Wine,lass,5,ron
+469,Water Bottle,Drinkware,496.3,2.5,692,90,0.21,960,2/19/2024,San Juan,FALSE,,,,496,26.30589288,,,,,145,Wate,ttle,8,n Juan
+470,Coffee Mug,Drinkware,103.88,4.7,3699,854,0.25,1738,05-02-2024,Los Angeles,FALSE,,,,104,60.8194048,,,,,732,Coff, Mug,11,s Ange
+471,Coffee Mug,Drinkware,122.06,4.8,2401,748,0.11,1603,11/28/2023,Provo,FALSE,,,,122,49,,,,,482,Coff, Mug,5,ovo
+472,Tea Cup,Drinkware,223.94,3.3,2635,281,0.42,1132,12-07-2023,Fresno,FALSE,,,,224,51.33225107,,,,,531,Tea , Cup,6,esno
+473,Wine Glass,Drinkware,448.11,4.8,4647,644,0.21,131,09-07-2023,Grand Rapids,FALSE,,,,448,68.16890787,,,,,930,Wine,lass,12,and Ra
+474,Water Bottle,Drinkware,445.55,3.2,3180,220,0.13,1391,1/17/2024,San Jose,FALSE,,,,446,56.39148872,,,,,630,Wate,ttle,8,n Jose
+475,Tea Cup,Drinkware,428.96,1.8,3576,474,0.03,270,11/30/2023,Houston,FALSE,,,,429,59.79966555,,,,,709,Tea , Cup,7,uston
+476,Wine Glass,Drinkware,407.33,4.3,3607,535,0.33,1858,8/27/2023,New York,TRUE,,,,407,60.058305,,,,,716,Wine,lass,8,w York
+477,Coffee Mug,Drinkware,237.01,1.2,278,876,0.02,253,12/14/2023,Las Vegas,TRUE,,,,237,16.673332,,,,,59,Coff, Mug,9,s Vega
+478,Water Bottle,Drinkware,270.69,3.4,699,565,0.18,1848,1/26/2024,Pittsburgh,TRUE,,,,271,26.43860813,,,,,149,Wate,ttle,10,ttsbur
+479,Tea Cup,Drinkware,120.8,2.2,3388,211,0.12,1714,07-06-2023,Indianapolis,TRUE,,,,121,58.20652884,,,,,671,Tea , Cup,12,dianap
+480,Wine Glass,Drinkware,103.65,2.2,4082,510,0.32,1192,07-05-2023,Albuquerque,TRUE,,,,104,63.89053138,,,,,807,Wine,lass,11,buquer
+481,Eau de Toilette,Perfume and cologne,158.44,2.3,1135,410,0.14,1208,4/26/2024,Buffalo,TRUE,,,,158,33.68976106,,,,,240,Eau ,ette,7,ffalo
+482,Eau de Toilette,Perfume and cologne,208.82,1.9,4308,309,0.3,752,9/14/2023,San Diego,TRUE,,,,209,65.63535633,,,,,856,Eau ,ette,9,n Dieg
+483,Body Spray,Perfume and cologne,213.09,4,4538,161,0.39,520,1/25/2024,Las Vegas,TRUE,,,,213,67.36467917,,,,,901,Body,pray,9,s Vega
+484,Perfume Oil,Perfume and cologne,30.79,2.1,3907,559,0.15,152,02-10-2024,Washington,TRUE,,,,31,62.50599971,,,,,773,Perf, Oil,10,shingt
+485,Eau de Parfum,Perfume and cologne,284.44,4.1,1752,562,0.18,488,3/16/2024,Minneapolis,TRUE,,,,284,41.85689907,,,,,355,Eau ,rfum,11,nneapo
+486,Eau de Toilette,Perfume and cologne,351.63,3.9,1914,197,0.46,406,12/28/2023,Las Vegas,TRUE,,,,352,43.74928571,,,,,380,Eau ,ette,9,s Vega
+487,Eau de Parfum,Perfume and cologne,432.23,2.1,4858,680,0.1,1164,04-03-2024,Toledo,TRUE,,,,432,69.69935437,,,,,975,Eau ,rfum,6,ledo
+488,Eau de Toilette,Perfume and cologne,335.92,1.6,3408,574,0.38,1903,12/20/2023,Cleveland,FALSE,,,,336,58.37807808,,,,,677,Eau ,ette,9,evelan
+489,Eau de Parfum,Perfume and cologne,474.07,3,1497,782,0.25,863,02-05-2024,Birmingham,FALSE,,,,474,38.69108424,,,,,314,Eau ,rfum,10,rmingh
+490,Perfume Oil,Perfume and cologne,198.33,1.1,1907,418,0.01,825,8/28/2023,Baltimore,FALSE,,,,198,43.66921112,,,,,378,Perf, Oil,9,ltimor
+491,Eau de Toilette,Perfume and cologne,423.21,1.4,3386,924,0.41,888,12/27/2023,Birmingham,FALSE,,,,423,58.1893461,,,,,670,Eau ,ette,10,rmingh
+492,Body Spray,Perfume and cologne,220.5,2.2,3407,389,0.06,1263,7/28/2023,Denver,FALSE,,,,221,58.36951259,,,,,676,Body,pray,6,nver
+493,Eau de Toilette,Perfume and cologne,280.83,2.6,4986,554,0.43,1683,03-09-2024,Harrisburg,FALSE,,,,281,70.61161378,,,,,997,Eau ,ette,10,rrisbu
+494,Perfume Oil,Perfume and cologne,316.26,2.3,3093,882,0.25,839,06-05-2024,Albany,FALSE,,,,316,55.61474625,,,,,615,Perf, Oil,6,bany
+495,Eau de Toilette,Perfume and cologne,316.19,3.3,3062,594,0.31,499,7/20/2023,Charleston,FALSE,,,,316,55.33534133,,,,,605,Eau ,ette,10,arlest
+496,Perfume Oil,Perfume and cologne,101.59,1.1,2378,900,0.18,1424,03-07-2024,Minneapolis,FALSE,,,,102,48.76474136,,,,,474,Perf, Oil,11,nneapo
+497,Eau de Parfum,Perfume and cologne,369.02,2.6,887,58,0.18,49,5/24/2024,Wichita,FALSE,,,,369,29.78254522,,,,,180,Eau ,rfum,7,chita
+498,Eau de Toilette,Perfume and cologne,172.9,1.2,2606,678,0.47,1164,3/20/2024,Harrisburg,FALSE,,,,173,51.04899607,,,,,528,Eau ,ette,10,rrisbu
+499,Eau de Toilette,Perfume and cologne,369.41,1.5,3474,127,0.38,759,5/14/2024,Detroit,FALSE,,,,369,58.94064811,,,,,688,Eau ,ette,7,troit
+500,Perfume Oil,Perfume and cologne,145.4,2.7,4664,391,0.03,1692,11/23/2023,New Orleans,TRUE,,,,145,68.29348432,,,,,937,Perf, Oil,11,w Orle
+501,Eau de Parfum,Perfume and cologne,60.53,3.2,1341,680,0.37,1497,11-06-2023,Little Rock,TRUE,,,,61,36.61966685,,,,,286,Eau ,rfum,11,ttle R
+502,Eau de Parfum,Perfume and cologne,204.83,2.1,4873,97,0.24,207,06-10-2024,Austin,TRUE,,,,205,69.80687645,,,,,978,Eau ,rfum,6,stin
+503,Perfume Oil,Perfume and cologne,279.31,3.8,153,938,0.3,218,01-07-2024,Raleigh,TRUE,,,,279,12.36931688,,,,,33,Perf, Oil,7,leigh
+504,Body Spray,Perfume and cologne,476.2,2.2,2195,107,0.23,1506,7/26/2023,Denton,TRUE,,,,476,46.8508271,,,,,438,Body,pray,6,nton
+505,Eau de Toilette,Perfume and cologne,324.4,3.8,1742,282,0.34,480,6/26/2023,Tulsa,TRUE,,,,324,41.73727351,,,,,352,Eau ,ette,5,lsa
+506,Perfume Oil,Perfume and cologne,295.94,3.1,2555,257,0.43,1088,3/21/2024,San Jose,TRUE,,,,296,50.54700782,,,,,517,Perf, Oil,8,n Jose
+507,Eau de Toilette,Perfume and cologne,230.05,3.4,4757,946,0.44,890,10-08-2023,Phoenix,TRUE,,,,230,68.9710084,,,,,956,Eau ,ette,7,oenix
+508,Eau de Toilette,Perfume and cologne,316.35,2.5,283,448,0.01,1091,06-05-2024,Mesa,TRUE,,,,316,16.82260384,,,,,60,Eau ,ette,4,sa
+509,Eau de Parfum,Perfume and cologne,275.58,4.8,3491,72,0.42,617,8/29/2023,St. Louis,TRUE,,,,276,59.08468499,,,,,695,Eau ,rfum,9,. Loui
+510,Eau de Toilette,Perfume and cologne,488.73,1.4,369,794,0.22,1442,10-12-2023,San Diego,FALSE,,,,489,19.20937271,,,,,72,Eau ,ette,9,n Dieg
+511,Body Spray,Perfume and cologne,51.31,4.2,4462,270,0.41,378,3/31/2024,New York,FALSE,,,,51,66.79820357,,,,,885,Body,pray,8,w York
+512,Body Spray,Perfume and cologne,14.44,3.4,3856,42,0.32,169,11/13/2023,Des Moines,FALSE,,,,14,62.09669879,,,,,764,Body,pray,10,s Moin
+513,Eau de Parfum,Perfume and cologne,54.78,1.8,150,110,0.37,1070,04-10-2024,Knoxville,FALSE,,,,55,12.24744871,,,,,32,Eau ,rfum,9,oxvill
+514,Eau de Parfum,Perfume and cologne,115.06,2.1,4897,295,0.18,945,7/30/2023,Virginia Beach,FALSE,,,,115,69.97856815,,,,,982,Eau ,rfum,14,rginia
+515,Eau de Toilette,Perfume and cologne,302.58,3.4,1629,303,0.17,1361,05-05-2024,Dayton,FALSE,,,,303,40.36087214,,,,,336,Eau ,ette,6,yton
+516,Body Spray,Perfume and cologne,413.26,4.7,3757,386,0.31,832,3/13/2024,Grand Rapids,FALSE,,,,413,61.29437168,,,,,745,Body,pray,12,and Ra
+517,Eau de Toilette,Perfume and cologne,152.83,4.1,2556,389,0.4,294,09-02-2023,Seattle,FALSE,,,,153,50.55689864,,,,,518,Eau ,ette,7,attle
+518,Eau de Parfum,Perfume and cologne,448.72,3.7,4663,186,0.23,444,4/15/2024,Bronx,FALSE,,,,449,68.28616258,,,,,936,Eau ,rfum,5,onx
+519,Body Spray,Perfume and cologne,322.6,4.3,679,419,0.27,1642,05-06-2024,Memphis,FALSE,,,,323,26.05762844,,,,,140,Body,pray,7,mphis
+520,Body Spray,Perfume and cologne,41.36,4.3,2559,138,0.3,1228,9/26/2023,Charlotte,FALSE,,,,41,50.58655948,,,,,520,Body,pray,9,arlott
+521,White Wine,Wine,256.29,1.2,4917,87,0.46,1230,02-04-2024,Cape Coral,FALSE,,,,256,70.12132343,,,,,986,Whit,Wine,10,pe Cor
+522,Rose Wine,Wine,359.35,1,120,384,0.46,1364,1/31/2024,Columbia,TRUE,,,,359,10.95445115,,,,,26,Rose,Wine,8,lumbia
+523,Red Wine,Wine,100.97,3.7,2668,302,0.34,802,04-04-2024,Louisville,TRUE,,,,101,51.65268628,,,,,539,Red ,Wine,10,uisvil
+524,Red Wine,Wine,161.81,2,2359,745,0.27,276,04-12-2024,Minneapolis,TRUE,,,,162,48.56953778,,,,,471,Red ,Wine,11,nneapo
+525,Rose Wine,Wine,47.55,4.5,2591,566,0.48,1571,2/23/2024,Charleston,TRUE,,,,48,50.90186637,,,,,523,Rose,Wine,10,arlest
+526,White Wine,Wine,193.02,2.1,2895,96,0.16,828,1/27/2024,Charleston,TRUE,,,,193,53.80520421,,,,,581,Whit,Wine,10,arlest
+527,White Wine,Wine,281.15,3,661,424,0.43,1449,3/17/2024,Queens,TRUE,,,,281,25.70992026,,,,,134,Whit,Wine,6,eens
+528,Red Wine,Wine,178.94,2.8,2942,725,0.15,1262,12/30/2023,Reno,TRUE,,,,179,54.24020649,,,,,587,Red ,Wine,4,no
+529,Rose Wine,Wine,97.83,3.8,4590,623,0.06,1424,10-09-2023,Columbia,TRUE,,,,98,67.74953874,,,,,919,Rose,Wine,8,lumbia
+530,Sparkling Wine,Wine,432.86,3.1,3089,605,0.08,288,11/16/2023,Omaha,TRUE,,,,433,55.57877293,,,,,613,Spar,Wine,5,aha
+531,White Wine,Wine,91.22,4.6,4729,649,0.32,114,01-02-2024,Little Rock,FALSE,,,,91,68.76772499,,,,,948,Whit,Wine,11,ttle R
+532,Red Wine,Wine,113.83,2.2,2294,558,0.2,146,2/15/2024,Kansas City,FALSE,,,,114,47.89572006,,,,,457,Red ,Wine,11,nsas C
+533,Rose Wine,Wine,377.2,3.3,2410,508,0.21,1312,5/24/2024,Tucson,FALSE,,,,377,49.09175083,,,,,483,Rose,Wine,6,cson
+534,Rose Wine,Wine,351.25,3.8,448,924,0.25,1522,1/23/2024,Portland,FALSE,,,,351,21.16601049,,,,,91,Rose,Wine,8,rtland
+535,White Wine,Wine,291.95,1.1,238,204,0.35,244,7/28/2023,Denton,FALSE,,,,292,15.42724862,,,,,49,Whit,Wine,6,nton
+536,Red Wine,Wine,175.23,1.6,4166,268,0.2,304,06-05-2024,Provo,FALSE,,,,175,64.54455825,,,,,825,Red ,Wine,5,ovo
+537,White Wine,Wine,258.82,2.7,1776,573,0.4,1560,10-05-2023,Concord,FALSE,,,,259,42.14261501,,,,,360,Whit,Wine,7,ncord
+538,Red Wine,Wine,209.98,4.5,2463,793,0.13,24,08-07-2023,Colorado Springs,FALSE,,,,210,49.62862077,,,,,498,Red ,Wine,16,lorado
+539,Sparkling Wine,Wine,351.66,4,504,597,0.42,498,6/14/2023,Spokane,FALSE,,,,352,22.44994432,,,,,99,Spar,Wine,7,okane
+540,Rose Wine,Wine,149.9,3.1,3484,338,0.41,1960,9/15/2023,Bonita Springs,FALSE,,,,150,59.02541825,,,,,691,Rose,Wine,14,nita S
+541,Rose Wine,Wine,16.55,2.6,2104,231,0.01,383,4/25/2024,Pittsburgh,FALSE,,,,17,45.86937976,,,,,420,Rose,Wine,10,ttsbur
+542,White Wine,Wine,42.82,4.5,2763,750,0.27,291,7/13/2023,Little Rock,FALSE,,,,43,52.5642464,,,,,558,Whit,Wine,11,ttle R
+543,Sparkling Wine,Wine,277.34,4.9,4177,833,0.26,334,5/23/2024,Milwaukee,TRUE,,,,277,64.62971453,,,,,827,Spar,Wine,9,lwauke
+544,Sparkling Wine,Wine,471.85,1.2,2370,850,0.04,205,7/28/2023,Rochester,TRUE,,,,472,48.68264578,,,,,473,Spar,Wine,9,cheste
+545,Sparkling Wine,Wine,43.67,2.5,2890,121,0.17,95,07-01-2023,Tucson,TRUE,,,,44,53.75872022,,,,,579,Spar,Wine,6,cson
+546,White Wine,Wine,116.66,3.6,670,123,0.05,1527,11/18/2023,Pittsburgh,TRUE,,,,117,25.88435821,,,,,137,Whit,Wine,10,ttsbur
+547,Sparkling Wine,Wine,42.57,4.1,249,313,0.39,1452,7/30/2023,Chicago,TRUE,,,,43,15.77973384,,,,,52,Spar,Wine,7,icago
+548,Rose Wine,Wine,341.96,4,3426,484,0.1,43,5/14/2024,Sacramento,TRUE,,,,342,58.53204251,,,,,679,Rose,Wine,10,cramen
+549,Rose Wine,Wine,93.24,1.8,219,901,0.37,400,11-10-2023,Bonita Springs,TRUE,,,,93,14.79864859,,,,,45,Rose,Wine,14,nita S
+550,Rose Wine,Wine,302.61,3.6,803,489,0.29,1493,04-11-2024,Charleston,TRUE,,,,303,28.33725463,,,,,162,Rose,Wine,10,arlest
+551,White Wine,Wine,160.38,2.7,53,527,0.1,1082,08-04-2023,Oklahoma City,TRUE,,,,160,7.280109889,,,,,14,Whit,Wine,13,lahoma
+552,Sparkling Wine,Wine,303.89,4.4,2781,715,0.36,394,11/18/2023,Port St. Lucie,FALSE,,,,304,52.73518749,,,,,562,Spar,Wine,14,rt St.
+553,Sparkling Wine,Wine,47.72,3.8,370,857,0.23,1341,11-01-2023,Bakersfield,FALSE,,,,48,19.23538406,,,,,74,Spar,Wine,11,kersfi
+554,Red Wine,Wine,143.25,3.8,4334,194,0.47,1245,04-12-2024,Bronx,FALSE,,,,143,65.83312236,,,,,861,Red ,Wine,5,onx
+555,Red Wine,Wine,269.07,4.3,3988,377,0.14,922,6/22/2023,Ogden,FALSE,,,,269,63.15061362,,,,,790,Red ,Wine,5,den
+556,Rose Wine,Wine,139.67,3.6,974,206,0.39,1814,7/22/2023,Oklahoma City,FALSE,,,,140,31.20897307,,,,,206,Rose,Wine,13,lahoma
+557,Sparkling Wine,Wine,53.31,3.8,203,160,0.22,768,12/30/2023,Cincinnati,FALSE,,,,53,14.24780685,,,,,43,Spar,Wine,10,ncinna
+558,Rose Wine,Wine,139.36,2.7,607,674,0.41,827,2/13/2024,Concord,FALSE,,,,139,24.63736999,,,,,125,Rose,Wine,7,ncord
+559,White Wine,Wine,336.76,2.3,2103,365,0.44,1767,10-01-2023,Omaha,FALSE,,,,337,45.85847795,,,,,419,Whit,Wine,5,aha
+560,Red Wine,Wine,223.85,3.7,2378,992,0.29,1791,05-05-2024,Detroit,FALSE,,,,224,48.76474136,,,,,474,Red ,Wine,7,troit
+561,Knee-High Socks,Socks,415.06,4.6,956,798,0.4,572,07-01-2023,Oakland,FALSE,,,,415,30.91924967,,,,,201,Knee,ocks,7,kland
+562,Ankle Socks,Socks,289.87,2.2,2828,880,0.48,458,12-08-2023,Tulsa,FALSE,,,,290,53.1789432,,,,,567,Ankl,ocks,5,lsa
+563,Wool Socks,Socks,394.03,3.3,4603,303,0.16,597,12/29/2023,Salt Lake City,FALSE,,,,394,67.84541252,,,,,920,Wool,ocks,14,lt Lak
+564,Ankle Socks,Socks,384.53,3.5,991,355,0.02,206,9/30/2023,Jacksonville,TRUE,,,,385,31.48015248,,,,,211,Ankl,ocks,12,cksonv
+565,Ankle Socks,Socks,12.62,4.8,4804,852,0.2,338,5/18/2024,Fresno,TRUE,,,,13,69.3108938,,,,,967,Ankl,ocks,6,esno
+566,Knee-High Socks,Socks,495.43,4,2730,449,0.35,938,01-11-2024,Mesa,TRUE,,,,495,52.24940191,,,,,550,Knee,ocks,4,sa
+567,Knee-High Socks,Socks,289.05,4.5,650,621,0.19,539,11/28/2023,Buffalo,TRUE,,,,289,25.49509757,,,,,132,Knee,ocks,7,ffalo
+568,Ankle Socks,Socks,113.7,5,2827,561,0.32,1136,12/25/2023,Pittsburgh,TRUE,,,,114,53.16954015,,,,,566,Ankl,ocks,10,ttsbur
+569,Knee-High Socks,Socks,470.57,3,4383,906,0.42,1178,4/18/2024,Colorado Springs,TRUE,,,,471,66.20422947,,,,,869,Knee,ocks,16,lorado
+570,Cotton Socks,Socks,192.83,4.8,2324,939,0.25,1448,4/14/2024,New Haven,TRUE,,,,193,48.20788317,,,,,465,Cott,ocks,9,w Have
+571,Ankle Socks,Socks,487.38,1.3,917,850,0.37,838,9/26/2023,Reno,FALSE,,,,487,30.28200786,,,,,186,Ankl,ocks,4,no
+572,Wool Socks,Socks,97.88,3.8,1749,753,0.33,92,1/22/2024,Las Vegas,FALSE,,,,98,41.82104733,,,,,353,Wool,ocks,9,s Vega
+573,Cotton Socks,Socks,19.38,4.1,374,58,0.35,779,8/21/2023,St. Louis,FALSE,,,,19,19.33907961,,,,,76,Cott,ocks,9,. Loui
+574,Cotton Socks,Socks,345.99,4.6,3255,89,0.2,972,7/26/2023,Spokane,FALSE,,,,346,57.0526073,,,,,647,Cott,ocks,7,okane
+575,Wool Socks,Socks,418.56,3.6,1610,967,0.05,1834,1/14/2024,Louisville,FALSE,,,,419,40.1248053,,,,,334,Wool,ocks,10,uisvil
+576,Knee-High Socks,Socks,25.55,2.7,4735,339,0.44,1167,7/30/2023,Indianapolis,FALSE,,,,26,68.81133628,,,,,953,Knee,ocks,12,dianap
+577,Ankle Socks,Socks,113.5,4.5,1262,951,0.1,1204,11-10-2023,Boise,FALSE,,,,114,35.52463934,,,,,265,Ankl,ocks,5,ise
+578,Knee-High Socks,Socks,443.45,1.5,4274,211,0.11,464,10/17/2023,Rochester,FALSE,,,,443,65.37583651,,,,,847,Knee,ocks,9,cheste
+579,Ankle Socks,Socks,486.96,2.9,2654,884,0.03,275,10/25/2023,New Haven,TRUE,,,,487,51.51698749,,,,,535,Ankl,ocks,9,w Have
+580,Wool Socks,Socks,487.92,4.3,3135,809,0.47,1938,06-01-2024,Atlanta,TRUE,,,,488,55.99107072,,,,,620,Wool,ocks,7,lanta
+581,Cotton Socks,Socks,44.81,1.8,762,275,0.03,727,4/21/2024,Spokane,TRUE,,,,45,27.60434748,,,,,158,Cott,ocks,7,okane
+582,Ankle Socks,Socks,82.17,4.9,2040,807,0.06,235,4/17/2024,Minneapolis,TRUE,,,,82,45.16635916,,,,,401,Ankl,ocks,11,nneapo
+583,Ankle Socks,Socks,401.16,2.3,903,92,0.12,1083,1/26/2024,Charleston,TRUE,,,,401,30.0499584,,,,,183,Ankl,ocks,10,arlest
+584,Ankle Socks,Socks,189.14,2.4,1036,991,0.49,1817,3/18/2024,San Jose,TRUE,,,,189,32.18695388,,,,,221,Ankl,ocks,8,n Jose
+585,Knee-High Socks,Socks,81.99,2.4,2430,855,0.08,1494,09-08-2023,Allentown,TRUE,,,,82,49.29503018,,,,,490,Knee,ocks,9,lentow
+586,Cotton Socks,Socks,416.36,3.8,3373,95,0.08,191,9/20/2023,Worcester,TRUE,,,,416,58.07753438,,,,,667,Cott,ocks,9,rceste
+587,Knee-High Socks,Socks,158.78,2.2,3183,827,0.24,1168,04-08-2024,El Paso,TRUE,,,,159,56.41808221,,,,,632,Knee,ocks,7, Paso
+588,Ankle Socks,Socks,492.27,2.6,2153,180,0.21,776,09-08-2023,Mesa,FALSE,,,,492,46.40043103,,,,,426,Ankl,ocks,4,sa
+589,Wool Socks,Socks,180.06,3.2,2153,270,0.02,1526,12/28/2023,Mission Viejo,FALSE,,,,180,46.40043103,,,,,426,Wool,ocks,13,ssion 
+590,Wool Socks,Socks,494.83,4.6,3802,980,0.24,1743,11/24/2023,Madison,FALSE,,,,495,61.66036004,,,,,752,Wool,ocks,7,dison
+591,Ankle Socks,Socks,284.19,3.7,226,47,0.2,1462,8/22/2023,Cleveland,TRUE,,,,284,15.03329638,,,,,48,Ankl,ocks,9,evelan
+592,Knee-High Socks,Socks,213.91,3.1,2535,908,0.44,1252,3/27/2024,Memphis,TRUE,,,,214,50.3487835,,,,,514,Knee,ocks,7,mphis
+593,Wool Socks,Socks,261.32,4.5,4405,131,0.49,1095,09-05-2023,Tampa,TRUE,,,,261,66.37017402,,,,,875,Wool,ocks,5,mpa
+594,Wool Socks,Socks,334.22,1.6,1445,119,0.09,1757,02-02-2024,Buffalo,TRUE,,,,334,38.01315562,,,,,305,Wool,ocks,7,ffalo
+595,Wool Socks,Socks,209.21,4.6,2294,71,0.19,5,11/19/2023,Omaha,TRUE,,,,209,47.89572006,,,,,457,Wool,ocks,5,aha
+596,Knee-High Socks,Socks,400.89,2.5,698,75,0.28,1822,6/29/2023,Queens,TRUE,,,,401,26.41968963,,,,,148,Knee,ocks,6,eens
+597,Ankle Socks,Socks,175.45,5,2334,765,0.26,1619,5/30/2024,Tucson,TRUE,,,,175,48.31148932,,,,,467,Ankl,ocks,6,cson
+598,Wool Socks,Socks,436.63,4.2,275,499,0.38,1973,9/13/2023,Mission Viejo,TRUE,,,,437,16.58312395,,,,,58,Wool,ocks,13,ssion 
+599,Knee-High Socks,Socks,248.2,4.7,4204,278,0.15,1799,08-02-2023,Atlanta,TRUE,,,,248,64.83826031,,,,,831,Knee,ocks,7,lanta
+600,Cotton Socks,Socks,395.05,3.4,1520,155,0.38,1295,06-10-2024,Worcester,TRUE,,,,395,38.98717738,,,,,320,Cott,ocks,9,rceste
+601,Silk Sheets,Bedsheets,220.69,3.4,870,12,0.38,1756,10/18/2023,Buffalo,FALSE,,,,221,29.49576241,,,,,174,Silk,eets,7,ffalo
+602,Silk Sheets,Bedsheets,243.09,3.7,1647,566,0.32,1490,2/17/2024,Omaha,FALSE,,,,243,40.58324778,,,,,341,Silk,eets,5,aha
+603,Linen Sheets,Bedsheets,456.2,3,4660,470,0.31,925,08-04-2023,Los Angeles,FALSE,,,,456,68.26419266,,,,,934,Line,eets,11,s Ange
+604,Bamboo Sheets,Bedsheets,464.91,5,1067,738,0.38,1743,9/21/2023,Oklahoma City,FALSE,,,,465,32.66496594,,,,,225,Bamb,eets,13,lahoma
+605,Bamboo Sheets,Bedsheets,34.31,3.9,2951,71,0.46,1291,7/27/2023,San Antonio,FALSE,,,,34,54.32310742,,,,,589,Bamb,eets,11,n Anto
+606,Linen Sheets,Bedsheets,402.71,2.6,4234,614,0.06,272,11-04-2023,Cincinnati,FALSE,,,,403,65.06919394,,,,,836,Line,eets,10,ncinna
+607,Cotton Sheets,Bedsheets,287.23,4.7,4485,341,0.03,1956,12-03-2023,Cleveland,FALSE,,,,287,66.9701426,,,,,888,Cott,eets,9,evelan
+608,Linen Sheets,Bedsheets,267.12,4.1,4322,370,0.17,816,1/15/2024,Bronx,FALSE,,,,267,65.74191966,,,,,859,Line,eets,5,onx
+609,Linen Sheets,Bedsheets,153.95,1.2,870,667,0.3,1029,1/17/2024,Madison,FALSE,,,,154,29.49576241,,,,,174,Line,eets,7,dison
+610,Bamboo Sheets,Bedsheets,165.6,4.4,3190,292,0.44,1603,11-11-2023,Bonita Springs,FALSE,,,,166,56.48008499,,,,,634,Bamb,eets,14,nita S
+611,Silk Sheets,Bedsheets,457.34,2.4,307,569,0.36,1128,10/28/2023,Tampa,FALSE,,,,457,17.52141547,,,,,62,Silk,eets,5,mpa
+612,Linen Sheets,Bedsheets,223.47,4.2,1378,749,0.04,795,11/15/2023,Long Beach,FALSE,,,,223,37.12142239,,,,,293,Line,eets,10,ng Bea
+613,Bamboo Sheets,Bedsheets,418.94,4.7,4567,719,0.23,1957,1/27/2024,New York,TRUE,,,,419,67.57958272,,,,,909,Bamb,eets,8,w York
+614,Linen Sheets,Bedsheets,89.77,3.4,1398,653,0.22,1534,8/27/2023,Cape Coral,TRUE,,,,90,37.38983819,,,,,299,Line,eets,10,pe Cor
+615,Linen Sheets,Bedsheets,130.86,2.9,3049,72,0.38,1983,6/18/2023,Baltimore,TRUE,,,,131,55.21775077,,,,,602,Line,eets,9,ltimor
+616,Silk Sheets,Bedsheets,96.82,2.2,1977,282,0.03,270,01-01-2024,Austin,TRUE,,,,97,44.46346815,,,,,389,Silk,eets,6,stin
+617,Bamboo Sheets,Bedsheets,433.83,2,2398,433,0.45,1494,02-01-2024,Cape Coral,TRUE,,,,434,48.96937819,,,,,481,Bamb,eets,10,pe Cor
+618,Linen Sheets,Bedsheets,156.44,1.4,1269,600,0.36,1922,1/15/2024,Orlando,TRUE,,,,156,35.62302626,,,,,270,Line,eets,7,lando
+619,Cotton Sheets,Bedsheets,432.94,4.3,2044,480,0.06,1788,1/21/2024,Spokane,TRUE,,,,433,45.21061822,,,,,406,Cott,eets,7,okane
+620,Silk Sheets,Bedsheets,156.97,3.4,1325,24,0.08,888,04-03-2024,Milwaukee,FALSE,,,,157,36.40054945,,,,,282,Silk,eets,9,lwauke
+621,Cotton Sheets,Bedsheets,32.17,1.9,470,963,0.29,660,10/29/2023,Toledo,FALSE,,,,32,21.67948339,,,,,93,Cott,eets,6,ledo
+622,Silk Sheets,Bedsheets,266.34,3.8,3623,241,0.28,1203,11/25/2023,Brooklyn,FALSE,,,,266,60.19136151,,,,,718,Silk,eets,8,ooklyn
+623,Linen Sheets,Bedsheets,134.43,4.1,3308,692,0.23,55,10/19/2023,Hartford,FALSE,,,,134,57.51521538,,,,,655,Line,eets,8,rtford
+624,Silk Sheets,Bedsheets,115.2,1.3,2799,513,0.37,1723,08-10-2023,Chicago,FALSE,,,,115,52.90557627,,,,,563,Silk,eets,7,icago
+625,Silk Sheets,Bedsheets,433.1,1.9,4006,601,0.39,1991,11-05-2023,Nashville,TRUE,,,,433,63.29296959,,,,,795,Silk,eets,9,shvill
+626,Silk Sheets,Bedsheets,398.85,1.1,1719,494,0.07,542,4/21/2024,Indianapolis,TRUE,,,,399,41.46082488,,,,,349,Silk,eets,12,dianap
+627,Cotton Sheets,Bedsheets,349.09,2.8,4647,612,0.31,1856,10-07-2023,Austin,TRUE,,,,349,68.16890787,,,,,930,Cott,eets,6,stin
+628,Linen Sheets,Bedsheets,347.49,4.6,1232,21,0.24,1231,06-04-2024,Grand Rapids,TRUE,,,,347,35.09985755,,,,,258,Line,eets,12,and Ra
+629,Silk Sheets,Bedsheets,404.8,2.3,2649,652,0.04,848,3/26/2024,Port St. Lucie,TRUE,,,,405,51.46843693,,,,,534,Silk,eets,14,rt St.
+630,Cotton Sheets,Bedsheets,422.05,1.9,1262,71,0.4,1845,09-03-2023,Baton Rouge,TRUE,,,,422,35.52463934,,,,,265,Cott,eets,11,ton Ro
+631,Cotton Sheets,Bedsheets,234.97,2.2,2722,59,0.06,981,4/15/2024,McAllen,TRUE,,,,235,52.17278984,,,,,548,Cott,eets,7,Allen
+632,Cotton Sheets,Bedsheets,216.17,3.4,3076,985,0.2,709,4/14/2024,Austin,TRUE,,,,216,55.4616985,,,,,609,Cott,eets,6,stin
+633,Bamboo Sheets,Bedsheets,313.43,2.3,4621,461,0.03,383,4/29/2024,Minneapolis,TRUE,,,,313,67.9779376,,,,,924,Bamb,eets,11,nneapo
+634,Linen Sheets,Bedsheets,261.03,4.1,1003,418,0.04,1938,03-04-2024,Boston,FALSE,,,,261,31.67017524,,,,,215,Line,eets,6,ston
+635,Linen Sheets,Bedsheets,207.57,4.3,1895,919,0.31,144,7/21/2023,Dallas,FALSE,,,,208,43.53159772,,,,,374,Line,eets,6,llas
+636,Linen Sheets,Bedsheets,481.51,2.8,3212,965,0.34,397,10/17/2023,Madison,FALSE,,,,482,56.67450926,,,,,638,Line,eets,7,dison
+637,Silk Sheets,Bedsheets,99.07,1.6,4827,911,0.02,428,07-02-2023,Columbia,FALSE,,,,99,69.47661477,,,,,971,Silk,eets,8,lumbia
+638,Bamboo Sheets,Bedsheets,263.96,3.8,4866,757,0.16,1806,12/24/2023,New Orleans,FALSE,,,,264,69.75672011,,,,,977,Bamb,eets,11,w Orle
+639,Linen Sheets,Bedsheets,479.48,1.9,3847,582,0.47,370,03-01-2024,Wichita,FALSE,,,,479,62.02418883,,,,,762,Line,eets,7,chita
+640,Silk Sheets,Bedsheets,165.13,2.1,2845,457,0.16,881,11/28/2023,Colorado Springs,FALSE,,,,165,53.33854141,,,,,572,Silk,eets,16,lorado
+641,Framed Poster,Posters and artwork,219.94,3.9,4266,381,0.07,452,6/28/2023,Kansas City,FALSE,,,,220,65.31462317,,,,,844,Fram,ster,11,nsas C
+642,Canvas Print,Posters and artwork,472.16,1.9,3075,92,0.46,287,2/27/2024,Orlando,FALSE,,,,472,55.45268253,,,,,608,Canv,rint,7,lando
+643,Canvas Print,Posters and artwork,132.26,3.2,4552,740,0.45,1029,2/21/2024,Albany,FALSE,,,,132,67.46851117,,,,,904,Canv,rint,6,bany
+644,Art Print,Posters and artwork,29.24,2.1,3722,810,0.49,1411,07-11-2023,Oakland,FALSE,,,,29,61.00819617,,,,,736,Art ,rint,7,kland
+645,Framed Poster,Posters and artwork,113.33,4.4,2501,290,0.47,149,10-09-2023,Concord,FALSE,,,,113,50.009999,,,,,507,Fram,ster,7,ncord
+646,Digital Art,Posters and artwork,232.66,4.1,2123,598,0.23,1553,2/20/2024,Allentown,TRUE,,,,233,46.07602413,,,,,421,Digi, Art,9,lentow
+647,Digital Art,Posters and artwork,469.88,1.7,1106,124,0.11,1070,9/30/2023,Bronx,TRUE,,,,470,33.2565783,,,,,231,Digi, Art,5,onx
+648,Digital Art,Posters and artwork,214.42,1.6,2415,494,0.38,717,08-03-2023,Virginia Beach,TRUE,,,,214,49.1426495,,,,,485,Digi, Art,14,rginia
+649,Canvas Print,Posters and artwork,59.12,1.1,1357,354,0.3,1761,9/20/2023,San Francisco,TRUE,,,,59,36.83748091,,,,,288,Canv,rint,13,n Fran
+650,Digital Art,Posters and artwork,125.15,4.3,4780,902,0.07,1471,04-09-2024,Port St. Lucie,TRUE,,,,125,69.13754407,,,,,960,Digi, Art,14,rt St.
+651,Canvas Print,Posters and artwork,463.97,2.7,3066,330,0.21,1778,5/25/2024,Jacksonville,TRUE,,,,464,55.3714728,,,,,606,Canv,rint,12,cksonv
+652,Digital Art,Posters and artwork,24.04,3.3,4586,430,0.12,297,3/28/2024,Jacksonville,TRUE,,,,24,67.72001181,,,,,918,Digi, Art,12,cksonv
+653,Art Print,Posters and artwork,204.87,4.9,4922,922,0.35,71,9/23/2023,Baton Rouge,TRUE,,,,205,70.15696687,,,,,987,Art ,rint,11,ton Ro
+654,Digital Art,Posters and artwork,193.61,3.2,4987,11,0.21,1578,5/26/2024,Baltimore,TRUE,,,,194,70.61869441,,,,,998,Digi, Art,9,ltimor
+655,Digital Art,Posters and artwork,119.92,1.9,3028,519,0.47,719,8/25/2023,Palm Bay,TRUE,,,,120,55.02726597,,,,,596,Digi, Art,8,lm Bay
+656,Art Print,Posters and artwork,34.77,3.5,925,662,0.11,969,04-02-2024,New Haven,TRUE,,,,35,30.41381265,,,,,190,Art ,rint,9,w Have
+657,Framed Poster,Posters and artwork,436.61,4,4290,910,0.2,1965,09-11-2023,Provo,TRUE,,,,437,65.49809158,,,,,853,Fram,ster,5,ovo
+658,Framed Poster,Posters and artwork,290.28,4.2,2074,310,0.08,1683,09-05-2023,Palm Bay,FALSE,,,,290,45.54119015,,,,,416,Fram,ster,8,lm Bay
+659,Canvas Print,Posters and artwork,179.81,2.6,4319,783,0.09,949,6/22/2023,Washington,FALSE,,,,180,65.7190992,,,,,858,Canv,rint,10,shingt
+660,Canvas Print,Posters and artwork,202.04,3.8,3498,829,0.49,1891,5/21/2024,Denton,FALSE,,,,202,59.14389233,,,,,698,Canv,rint,6,nton
+661,Art Print,Posters and artwork,448.89,2.2,3406,440,0.07,1311,4/23/2024,Dallas,FALSE,,,,449,58.36094585,,,,,675,Art ,rint,6,llas
+662,Canvas Print,Posters and artwork,32.19,3.6,3748,277,0.34,988,8/17/2023,Charleston,FALSE,,,,32,61.22091146,,,,,742,Canv,rint,10,arlest
+663,Canvas Print,Posters and artwork,24.71,2.8,2182,579,0.49,477,01-05-2024,San Jose,FALSE,,,,25,46.71188286,,,,,436,Canv,rint,8,n Jose
+664,Art Print,Posters and artwork,383.22,3,2462,338,0.49,287,7/26/2023,Concord,FALSE,,,,383,49.61854492,,,,,497,Art ,rint,7,ncord
+665,Digital Art,Posters and artwork,211.48,2.7,2363,983,0.28,143,5/27/2024,Fort Worth,FALSE,,,,211,48.61069841,,,,,472,Digi, Art,10,rt Wor
+666,Canvas Print,Posters and artwork,21.53,2.7,2176,906,0.28,3,7/21/2023,Houston,FALSE,,,,22,46.64761516,,,,,434,Canv,rint,7,uston
+667,Canvas Print,Posters and artwork,266.56,2,3792,224,0.25,991,7/27/2023,New York,FALSE,,,,267,61.57921727,,,,,749,Canv,rint,8,w York
+668,Digital Art,Posters and artwork,113.06,4.1,1131,530,0.06,1319,08-11-2023,Akron,FALSE,,,,113,33.63034344,,,,,238,Digi, Art,5,ron
+669,Digital Art,Posters and artwork,482.27,1.5,194,489,0.44,181,08-12-2023,Grand Rapids,FALSE,,,,482,13.92838828,,,,,38,Digi, Art,12,and Ra
+670,Art Print,Posters and artwork,12.65,1,3867,792,0.01,777,8/19/2023,Sacramento,TRUE,,,,13,62.18520724,,,,,767,Art ,rint,10,cramen
+671,Art Print,Posters and artwork,168.67,3.6,1397,553,0.13,1269,11/17/2023,Detroit,TRUE,,,,169,37.37646318,,,,,297,Art ,rint,7,troit
+672,Framed Poster,Posters and artwork,306.94,4.4,2410,282,0.37,161,01-04-2024,Portland,TRUE,,,,307,49.09175083,,,,,483,Fram,ster,8,rtland
+673,Canvas Print,Posters and artwork,301.13,2.6,4683,857,0.01,1887,10/30/2023,Queens,TRUE,,,,301,68.43244844,,,,,944,Canv,rint,6,eens
+674,Art Print,Posters and artwork,23.65,3.5,4416,434,0.27,1431,01-05-2024,Pittsburgh,TRUE,,,,24,66.4529909,,,,,878,Art ,rint,10,ttsbur
+675,Framed Poster,Posters and artwork,483,1.2,2660,155,0.08,870,09-06-2023,New Orleans,TRUE,,,,483,51.57518783,,,,,536,Fram,ster,11,w Orle
+676,Framed Poster,Posters and artwork,44,1.4,1751,909,0.4,313,7/16/2023,Rochester,TRUE,,,,44,41.84495191,,,,,354,Fram,ster,9,cheste
+677,Canvas Print,Posters and artwork,80.21,3.9,2686,847,0.5,439,11-08-2023,Atlanta,TRUE,,,,80,51.82663408,,,,,541,Canv,rint,7,lanta
+678,Art Print,Posters and artwork,341.42,3.7,194,662,0,122,12-08-2023,San Juan,TRUE,,,,341,13.92838828,,,,,38,Art ,rint,8,n Juan
+679,Framed Poster,Posters and artwork,334.3,3.5,3814,990,0.02,395,07-11-2023,San Jose,TRUE,,,,334,61.75759063,,,,,757,Fram,ster,8,n Jose
+680,Framed Poster,Posters and artwork,420.26,1.5,3629,799,0.41,1424,12/26/2023,Mesa,FALSE,,,,420,60.24118193,,,,,719,Fram,ster,4,sa
+681,Soy Candle,Candles,460.01,3.6,2156,794,0.2,615,9/30/2023,Washington,FALSE,,,,460,46.43274706,,,,,430,Soy ,ndle,10,shingt
+682,Beeswax Candle,Candles,156.4,4.6,1268,286,0.16,475,3/21/2024,Bonita Springs,FALSE,,,,156,35.60898763,,,,,269,Bees,ndle,14,nita S
+683,Soy Candle,Candles,16.32,3.2,935,908,0.48,290,1/31/2024,Bonita Springs,FALSE,,,,16,30.5777697,,,,,194,Soy ,ndle,14,nita S
+684,Scented Candle,Candles,281.02,4.2,3861,961,0.3,507,11-06-2023,Albuquerque,FALSE,,,,281,62.13694553,,,,,765,Scen,ndle,11,buquer
+685,Scented Candle,Candles,201.05,2.9,4703,586,0.41,565,07-04-2023,Minneapolis,FALSE,,,,201,68.57842226,,,,,945,Scen,ndle,11,nneapo
+686,Beeswax Candle,Candles,270.62,4.5,3603,557,0.23,1918,4/15/2024,San Jose,FALSE,,,,271,60.02499479,,,,,714,Bees,ndle,8,n Jose
+687,Scented Candle,Candles,159.81,2.6,3996,851,0.34,28,2/21/2024,Baton Rouge,FALSE,,,,160,63.21392252,,,,,792,Scen,ndle,11,ton Ro
+688,Beeswax Candle,Candles,188.69,4,2756,474,0.06,211,2/24/2024,Reno,FALSE,,,,189,52.49761899,,,,,555,Bees,ndle,4,no
+689,Pillar Candle,Candles,379.2,4.5,4085,786,0.37,684,12/24/2023,Mission Viejo,FALSE,,,,379,63.91400473,,,,,809,Pill,ndle,13,ssion 
+690,Scented Candle,Candles,340.11,4.1,1499,51,0.25,876,07-06-2023,Worcester,FALSE,,,,340,38.71692137,,,,,315,Scen,ndle,9,rceste
+691,Beeswax Candle,Candles,106.16,1.5,857,751,0.14,1942,8/18/2023,Indianapolis,FALSE,,,,106,29.27456234,,,,,172,Bees,ndle,12,dianap
+692,Scented Candle,Candles,275.27,1.3,4306,751,0.05,779,11/18/2023,Birmingham,TRUE,,,,275,65.62011887,,,,,855,Scen,ndle,10,rmingh
+693,Beeswax Candle,Candles,42.68,1.2,4506,522,0.02,426,09-11-2023,Seattle,TRUE,,,,43,67.12674579,,,,,894,Bees,ndle,7,attle
+694,Pillar Candle,Candles,205.59,3.4,1243,576,0.49,327,4/21/2024,St. Louis,TRUE,,,,206,35.25620513,,,,,259,Pill,ndle,9,. Loui
+695,Soy Candle,Candles,447.88,1.3,3388,323,0.09,1689,6/20/2023,Wichita,TRUE,,,,448,58.20652884,,,,,671,Soy ,ndle,7,chita
+696,Soy Candle,Candles,175.28,4.8,4141,820,0.16,1912,9/17/2023,Pittsburgh,TRUE,,,,175,64.35060217,,,,,821,Soy ,ndle,10,ttsbur
+697,Scented Candle,Candles,418.27,2.2,2163,629,0.31,1503,08-12-2023,Mission Viejo,TRUE,,,,418,46.50806382,,,,,433,Scen,ndle,13,ssion 
+698,Beeswax Candle,Candles,232.55,2.6,2476,790,0.16,746,08-04-2023,Bakersfield,TRUE,,,,233,49.75942122,,,,,500,Bees,ndle,11,kersfi
+699,Soy Candle,Candles,409.73,2.9,2829,333,0.03,347,9/13/2023,Baton Rouge,FALSE,,,,410,53.18834459,,,,,568,Soy ,ndle,11,ton Ro
+700,Beeswax Candle,Candles,231.35,2.4,3164,684,0.06,1240,6/20/2023,Omaha,FALSE,,,,231,56.24944444,,,,,627,Bees,ndle,5,aha
+701,Soy Candle,Candles,310.85,3.5,243,505,0.03,1110,11-08-2023,Manhattan,FALSE,,,,311,15.58845727,,,,,51,Soy ,ndle,9,nhatta
+702,Soy Candle,Candles,367.94,1.5,1192,329,0.24,390,08-11-2023,Tampa,FALSE,,,,368,34.525353,,,,,250,Soy ,ndle,5,mpa
+703,Soy Candle,Candles,435.4,2.2,1211,929,0.02,643,11-07-2023,Manhattan,FALSE,,,,435,34.79942528,,,,,253,Soy ,ndle,9,nhatta
+704,Pillar Candle,Candles,280.66,3.4,4552,188,0.29,1788,8/25/2023,Houston,TRUE,,,,281,67.46851117,,,,,904,Pill,ndle,7,uston
+705,Soy Candle,Candles,269.69,3.7,1869,376,0.2,507,5/27/2024,Bridgeport,TRUE,,,,270,43.23193264,,,,,371,Soy ,ndle,10,idgepo
+706,Beeswax Candle,Candles,84.21,2.7,4516,528,0.26,941,05-04-2024,San Francisco,TRUE,,,,84,67.20119047,,,,,896,Bees,ndle,13,n Fran
+707,Scented Candle,Candles,415.93,1.3,2155,267,0.41,1553,3/14/2024,Jacksonville,TRUE,,,,416,46.42197755,,,,,429,Scen,ndle,12,cksonv
+708,Scented Candle,Candles,105.65,3.7,2430,441,0.49,1113,10/19/2023,New Haven,TRUE,,,,106,49.29503018,,,,,490,Scen,ndle,9,w Have
+709,Soy Candle,Candles,363.81,1.2,2645,18,0.26,606,10-02-2023,Houston,TRUE,,,,364,51.42956348,,,,,533,Soy ,ndle,7,uston
+710,Scented Candle,Candles,15.14,4.6,1547,629,0.31,1446,10-10-2023,Miami,TRUE,,,,15,39.33192088,,,,,324,Scen,ndle,5,ami
+711,Scented Candle,Candles,16.32,1.9,746,701,0.18,769,12/15/2023,Fresno,TRUE,,,,16,27.31300057,,,,,155,Scen,ndle,6,esno
+712,Beeswax Candle,Candles,196.67,1.2,2306,134,0.45,1771,12-09-2023,Spokane,TRUE,,,,197,48.02082881,,,,,461,Bees,ndle,7,okane
+713,Scented Candle,Candles,419.33,1.8,4675,890,0.29,880,03-06-2024,Madison,FALSE,,,,419,68.37397166,,,,,940,Scen,ndle,7,dison
+714,Scented Candle,Candles,43.37,1.9,4478,133,0.23,502,12-10-2023,Grand Rapids,FALSE,,,,43,66.9178601,,,,,887,Scen,ndle,12,and Ra
+715,Scented Candle,Candles,212.93,4.8,3981,678,0.3,219,12/16/2023,Kansas City,FALSE,,,,213,63.09516622,,,,,785,Scen,ndle,11,nsas C
+716,Beeswax Candle,Candles,244.38,1.1,3733,415,0.41,196,05-01-2024,Baton Rouge,FALSE,,,,244,61.09828148,,,,,740,Bees,ndle,11,ton Ro
+717,Scented Candle,Candles,266.47,1.9,3878,889,0.04,924,02-10-2024,Tampa,FALSE,,,,266,62.27358991,,,,,770,Scen,ndle,5,mpa
+718,Beeswax Candle,Candles,80.05,4,28,974,0.3,1419,2/22/2024,San Antonio,FALSE,,,,80,5.291502622,,,,,9,Bees,ndle,11,n Anto
+719,Soy Candle,Candles,260.74,2.9,903,519,0.42,339,12/20/2023,Palm Bay,FALSE,,,,261,30.0499584,,,,,183,Soy ,ndle,8,lm Bay
+720,Pillar Candle,Candles,13.59,1.1,3087,332,0.5,8,08-01-2023,Allentown,FALSE,,,,14,55.56077753,,,,,612,Pill,ndle,9,lentow
+721,Body Lotion,Bath and body,480.3,1.2,2062,838,0.02,1448,09-08-2023,San Antonio,FALSE,,,,480,45.40925016,,,,,412,Body,tion,11,n Anto
+722,Body Scrub,Bath and body,267.2,2.8,2313,490,0.29,1735,08-11-2023,Bakersfield,FALSE,,,,267,48.09365863,,,,,463,Body,crub,11,kersfi
+723,Body Scrub,Bath and body,492.18,4.2,1517,367,0.34,419,09-07-2023,Boise,FALSE,,,,492,38.94868419,,,,,318,Body,crub,5,ise
+724,Bath Salts,Bath and body,348.46,3.9,3096,529,0.46,1578,7/14/2023,Philadelphia,FALSE,,,,348,55.64171097,,,,,616,Bath,alts,12,iladel
+725,Body Scrub,Bath and body,47.61,1,2226,55,0.21,110,1/27/2024,Richmond,TRUE,,,,48,47.18050445,,,,,446,Body,crub,8,chmond
+726,Body Scrub,Bath and body,329.96,3.3,813,248,0.05,322,06-06-2024,New Orleans,TRUE,,,,330,28.51315486,,,,,164,Body,crub,11,w Orle
+727,Body Scrub,Bath and body,481.95,1.5,2476,268,0.08,147,2/15/2024,New York,TRUE,,,,482,49.75942122,,,,,500,Body,crub,8,w York
+728,Body Lotion,Bath and body,400.78,3.7,2038,812,0.24,1854,3/28/2024,Phoenix,TRUE,,,,401,45.14421336,,,,,400,Body,tion,7,oenix
+729,Bath Salts,Bath and body,224.16,3.5,3510,714,0.42,998,08-08-2023,Chicago,TRUE,,,,224,59.24525297,,,,,699,Bath,alts,7,icago
+730,Body Lotion,Bath and body,438.41,4.3,1451,727,0.2,562,11-11-2023,Boston,TRUE,,,,438,38.09199391,,,,,307,Body,tion,6,ston
+731,Bath Salts,Bath and body,18.17,1.8,4534,731,0.21,698,8/28/2023,Mesa,TRUE,,,,18,67.33498348,,,,,900,Bath,alts,4,sa
+732,Bath Salts,Bath and body,265.72,1.3,3197,176,0.48,1634,03-06-2024,Kansas City,TRUE,,,,266,56.54201977,,,,,635,Bath,alts,11,nsas C
+733,Bath Salts,Bath and body,213.75,3.2,3916,637,0.26,309,1/14/2024,Cape Coral,TRUE,,,,214,62.57795139,,,,,775,Bath,alts,10,pe Cor
+734,Body Scrub,Bath and body,320.07,4.1,684,557,0.01,1462,11-11-2023,Manhattan,TRUE,,,,320,26.15339366,,,,,141,Body,crub,9,nhatta
+735,Shower Gel,Bath and body,222.69,1.5,3560,64,0.18,626,04-09-2024,Riverside,TRUE,,,,223,59.66573556,,,,,707,Show, Gel,9,versid
+736,Bath Salts,Bath and body,247.06,2.7,1181,588,0.3,1878,10/31/2023,Bridgeport,TRUE,,,,247,34.36568055,,,,,247,Bath,alts,10,idgepo
+737,Shower Gel,Bath and body,241.15,3.2,4908,939,0.11,1906,8/14/2023,Boise,FALSE,,,,241,70.05711955,,,,,983,Show, Gel,5,ise
+738,Body Scrub,Bath and body,134.72,2.9,2387,346,0.13,648,10-11-2023,Buffalo,FALSE,,,,135,48.856934,,,,,478,Body,crub,7,ffalo
+739,Shower Gel,Bath and body,212.08,1.8,4391,111,0.07,1200,07-05-2023,Port St. Lucie,FALSE,,,,212,66.26462103,,,,,870,Show, Gel,14,rt St.
+740,Body Scrub,Bath and body,138.05,2.7,3472,27,0.26,1560,4/15/2024,Oakland,FALSE,,,,138,58.92367945,,,,,687,Body,crub,7,kland
+741,Body Lotion,Bath and body,213.6,4.6,2597,901,0.01,1677,7/26/2023,Knoxville,FALSE,,,,214,50.96076922,,,,,525,Body,tion,9,oxvill
+742,Body Scrub,Bath and body,73.01,3.3,1248,663,0.02,1983,10/15/2023,Bronx,FALSE,,,,73,35.32704347,,,,,263,Body,crub,5,onx
+743,Body Scrub,Bath and body,209.61,3.1,2749,0,0.1,428,02-07-2024,New Orleans,FALSE,,,,210,52.43090692,,,,,553,Body,crub,11,w Orle
+744,Bath Salts,Bath and body,298.17,2.3,220,914,0.4,1048,5/27/2024,Akron,FALSE,,,,298,14.83239697,,,,,46,Bath,alts,5,ron
+745,Body Lotion,Bath and body,457.39,3.3,3986,480,0.13,1771,6/18/2023,Allentown,FALSE,,,,457,63.13477647,,,,,789,Body,tion,9,lentow
+746,Bath Salts,Bath and body,198.52,2.7,44,645,0.29,1093,6/26/2023,Baltimore,FALSE,,,,199,6.633249581,,,,,13,Bath,alts,9,ltimor
+747,Shower Gel,Bath and body,49.97,1.4,1001,9,0.26,755,09-12-2023,Provo,FALSE,,,,50,31.63858404,,,,,214,Show, Gel,5,ovo
+748,Body Scrub,Bath and body,17.16,2.4,478,14,0.19,1191,06-03-2024,Las Vegas,FALSE,,,,17,21.86321111,,,,,94,Body,crub,9,s Vega
+749,Shower Gel,Bath and body,401.34,4.7,271,142,0.08,1843,04-04-2024,Austin,FALSE,,,,401,16.46207763,,,,,57,Show, Gel,6,stin
+750,Bath Salts,Bath and body,334.66,4.2,622,769,0.41,771,2/24/2024,Little Rock,FALSE,,,,335,24.93992783,,,,,129,Bath,alts,11,ttle R
+751,Body Lotion,Bath and body,112.12,1.5,66,495,0.16,767,06-03-2024,Allentown,FALSE,,,,112,8.124038405,,,,,16,Body,tion,9,lentow
+752,Body Lotion,Bath and body,135.53,1.9,3580,297,0.43,375,1/23/2024,Milwaukee,FALSE,,,,136,59.83310121,,,,,711,Body,tion,9,lwauke
+753,Body Scrub,Bath and body,184.72,4.6,72,307,0.26,1781,08-05-2023,Omaha,FALSE,,,,185,8.485281374,,,,,18,Body,crub,5,aha
+754,Body Scrub,Bath and body,112.75,4.9,1174,668,0.15,178,11/28/2023,Ogden,FALSE,,,,113,34.2636834,,,,,244,Body,crub,5,den
+755,Bath Salts,Bath and body,84.17,1.6,787,747,0.03,492,02-03-2024,Miami,FALSE,,,,84,28.05352028,,,,,160,Bath,alts,5,ami
+756,Shower Gel,Bath and body,367.36,3.3,1129,374,0.25,697,03-05-2024,Allentown,FALSE,,,,367,33.60059523,,,,,236,Show, Gel,9,lentow
+757,Body Lotion,Bath and body,111.22,2.3,324,978,0.2,955,7/30/2023,Des Moines,FALSE,,,,111,18,,,,,64,Body,tion,10,s Moin
+758,Body Scrub,Bath and body,407.92,4.3,3086,216,0.16,1570,12-12-2023,Houston,TRUE,,,,408,55.55177765,,,,,611,Body,crub,7,uston
+759,Body Lotion,Bath and body,99.58,4.8,2352,984,0.45,1013,10/24/2023,Akron,TRUE,,,,100,48.49742261,,,,,469,Body,tion,5,ron
+760,Bath Salts,Bath and body,131.78,2.3,1577,272,0.15,972,06-05-2024,Philadelphia,TRUE,,,,132,39.7114593,,,,,330,Bath,alts,12,iladel
+761,Dutch Oven,Cookware,394.69,2.1,4613,919,0.05,133,09-01-2023,San Jose,TRUE,,,,395,67.91906949,,,,,923,Dutc,Oven,8,n Jose
+762,Frying Pan,Cookware,172.49,3,2378,537,0.12,893,09-02-2023,Bronx,TRUE,,,,172,48.76474136,,,,,474,Fryi, Pan,5,onx
+763,Dutch Oven,Cookware,96.79,1,687,20,0.34,1894,11-03-2023,Queens,TRUE,,,,97,26.21068484,,,,,143,Dutc,Oven,6,eens
+764,Dutch Oven,Cookware,407.85,4.8,3797,58,0.4,1644,01-07-2024,Palm Bay,TRUE,,,,408,61.61980201,,,,,750,Dutc,Oven,8,lm Bay
+765,Dutch Oven,Cookware,50.16,3.6,3106,378,0.32,236,2/29/2024,Tulsa,TRUE,,,,50,55.73149917,,,,,618,Dutc,Oven,5,lsa
+766,Dutch Oven,Cookware,361.56,2.9,966,171,0.1,1146,7/17/2023,Palm Bay,TRUE,,,,362,31.08054054,,,,,205,Dutc,Oven,8,lm Bay
+767,Frying Pan,Cookware,278.97,1.8,2212,698,0.3,1762,4/25/2024,Fort Worth,TRUE,,,,279,47.03190407,,,,,443,Fryi, Pan,10,rt Wor
+768,Grill Pan,Cookware,466.92,4.7,610,115,0.23,1391,10-03-2023,Salt Lake City,FALSE,,,,467,24.69817807,,,,,126,Gril, Pan,14,lt Lak
+769,Saucepan,Cookware,187.86,4.5,3699,662,0.31,1525,11/19/2023,Reno,FALSE,,,,188,60.8194048,,,,,732,Sauc,epan,4,no
+770,Frying Pan,Cookware,33.13,4.8,4657,803,0.12,1614,12-05-2023,Fresno,FALSE,,,,33,68.24221567,,,,,933,Fryi, Pan,6,esno
+771,Dutch Oven,Cookware,433.11,1.5,351,700,0.07,1245,10/15/2023,Long Beach,FALSE,,,,433,18.734994,,,,,68,Dutc,Oven,10,ng Bea
+772,Saucepan,Cookware,488.13,2.5,2381,888,0.09,1105,12-03-2023,Salt Lake City,FALSE,,,,488,48.7954916,,,,,477,Sauc,epan,14,lt Lak
+773,Saucepan,Cookware,213.77,1.3,3639,93,0.21,596,10-11-2023,Houston,FALSE,,,,214,60.32412453,,,,,721,Sauc,epan,7,uston
+774,Frying Pan,Cookware,105.9,4.3,2681,127,0.21,1296,07-12-2023,New Haven,FALSE,,,,106,51.77837386,,,,,540,Fryi, Pan,9,w Have
+775,Frying Pan,Cookware,32.57,4.7,1505,861,0.3,998,7/23/2023,Atlanta,TRUE,,,,33,38.79432948,,,,,316,Fryi, Pan,7,lanta
+776,Saucepan,Cookware,461.14,2.4,3236,487,0.24,1449,12-10-2023,Knoxville,TRUE,,,,461,56.88585061,,,,,646,Sauc,epan,9,oxvill
+777,Frying Pan,Cookware,10.11,4.7,2721,438,0.38,250,03-07-2024,Dallas,TRUE,,,,10,52.16320542,,,,,547,Fryi, Pan,6,llas
+778,Frying Pan,Cookware,364.16,1.9,512,215,0.15,124,3/22/2024,New Orleans,TRUE,,,,364,22.627417,,,,,102,Fryi, Pan,11,w Orle
+779,Dutch Oven,Cookware,193.66,3.5,2331,105,0.06,227,12-07-2023,Virginia Beach,TRUE,,,,194,48.28043082,,,,,466,Dutc,Oven,14,rginia
+780,Frying Pan,Cookware,62.93,1.9,2921,471,0.02,12,5/25/2024,Charlotte,TRUE,,,,63,54.04627647,,,,,583,Fryi, Pan,9,arlott
+781,Frying Pan,Cookware,177.21,2.8,294,188,0.25,1102,1/18/2024,Sacramento,TRUE,,,,177,17.1464282,,,,,61,Fryi, Pan,10,cramen
+782,Dutch Oven,Cookware,339.08,1.1,4961,825,0.02,70,10-08-2023,El Paso,TRUE,,,,339,70.43436661,,,,,992,Dutc,Oven,7, Paso
+783,Frying Pan,Cookware,493.58,4,4565,505,0.27,493,08-12-2023,Bronx,TRUE,,,,494,67.56478373,,,,,908,Fryi, Pan,5,onx
+784,Grill Pan,Cookware,432.83,2.1,2521,845,0.43,1454,7/16/2023,Harrisburg,TRUE,,,,433,50.20956084,,,,,511,Gril, Pan,10,rrisbu
+785,Frying Pan,Cookware,125.03,4.3,3199,531,0.41,1957,7/20/2023,Louisville,TRUE,,,,125,56.55970297,,,,,636,Fryi, Pan,10,uisvil
+786,Saucepan,Cookware,476.18,1.5,1407,430,0.09,981,7/29/2023,Cape Coral,TRUE,,,,476,37.50999867,,,,,301,Sauc,epan,10,pe Cor
+787,Saucepan,Cookware,152.77,2.7,3605,458,0.45,1436,05-01-2024,Salt Lake City,TRUE,,,,153,60.04165221,,,,,715,Sauc,epan,14,lt Lak
+788,Frying Pan,Cookware,421.6,2.4,2449,758,0.5,1317,11/18/2023,Milwaukee,FALSE,,,,422,49.48737213,,,,,496,Fryi, Pan,9,lwauke
+789,Frying Pan,Cookware,458.75,3.9,1910,914,0.16,1505,8/26/2023,Oklahoma City,FALSE,,,,459,43.70354677,,,,,379,Fryi, Pan,13,lahoma
+790,Frying Pan,Cookware,103.16,4.3,3548,709,0.04,178,11-06-2023,Minneapolis,FALSE,,,,103,59.56509045,,,,,705,Fryi, Pan,11,nneapo
+791,Saucepan,Cookware,431.23,1.7,60,53,0.01,847,04-08-2024,Philadelphia,FALSE,,,,431,7.745966692,,,,,15,Sauc,epan,12,iladel
+792,Grill Pan,Cookware,468.05,4.6,3960,698,0.44,1963,12/14/2023,Queens,FALSE,,,,468,62.92853089,,,,,781,Gril, Pan,6,eens
+793,Dutch Oven,Cookware,256.82,4.5,1004,451,0.38,1039,7/21/2023,Staten Island,FALSE,,,,257,31.68595904,,,,,216,Dutc,Oven,13,aten I
+794,Grill Pan,Cookware,348.71,1.7,124,80,0.25,1861,1/14/2024,Tulsa,FALSE,,,,349,11.13552873,,,,,28,Gril, Pan,5,lsa
+795,Grill Pan,Cookware,211.49,3.7,4846,500,0.2,210,4/28/2024,San Diego,TRUE,,,,211,69.61321714,,,,,973,Gril, Pan,9,n Dieg
+796,Saucepan,Cookware,29.51,2.1,4486,846,0.48,793,03-07-2024,Providence,TRUE,,,,30,66.9776082,,,,,889,Sauc,epan,10,oviden
+797,Dutch Oven,Cookware,352.8,4.4,4280,68,0.07,1590,03-07-2024,Little Rock,TRUE,,,,353,65.42170894,,,,,848,Dutc,Oven,11,ttle R
+798,Grill Pan,Cookware,490.82,2.5,1357,924,0.17,78,04-06-2024,Mission Viejo,TRUE,,,,491,36.83748091,,,,,288,Gril, Pan,13,ssion 
+799,Dutch Oven,Cookware,320.3,2.8,2728,662,0.37,1337,05-11-2024,Bakersfield,TRUE,,,,320,52.23025943,,,,,549,Dutc,Oven,11,kersfi
+800,Dutch Oven,Cookware,406.05,1.3,3644,269,0.34,517,03-01-2024,Riverside,TRUE,,,,406,60.36555309,,,,,722,Dutc,Oven,9,versid
+801,Nail File,Nail care,82.77,3.4,3168,73,0.48,1705,08-10-2023,Salt Lake City,TRUE,,,,83,56.28498912,,,,,628,Nail,File,14,lt Lak
+802,Nail Clippers,Nail care,467.15,3.3,3598,573,0.41,1744,7/28/2023,Salt Lake City,TRUE,,,,467,59.98333102,,,,,713,Nail,pers,14,lt Lak
+803,Nail File,Nail care,240.94,2.9,4734,291,0.26,12,9/15/2023,New Haven,TRUE,,,,241,68.80406965,,,,,951,Nail,File,9,w Have
+804,Nail Polish,Nail care,345.1,1.1,2494,985,0.16,73,5/18/2024,Louisville,TRUE,,,,345,49.93996396,,,,,504,Nail,lish,10,uisvil
+805,Nail Polish,Nail care,186.59,1.3,4136,428,0.27,365,2/13/2024,Memphis,TRUE,,,,187,64.31174076,,,,,819,Nail,lish,7,mphis
+806,Nail Polish,Nail care,53.98,4.6,3201,351,0.24,1341,1/27/2024,New Haven,TRUE,,,,54,56.57738064,,,,,637,Nail,lish,9,w Have
+807,Nail Clippers,Nail care,463.77,1.6,2415,93,0.1,1738,07-07-2023,El Paso,TRUE,,,,464,49.1426495,,,,,485,Nail,pers,7, Paso
+808,Nail Polish,Nail care,227.45,2.1,585,876,0.44,1577,11/13/2023,Provo,TRUE,,,,227,24.18677324,,,,,119,Nail,lish,5,ovo
+809,Nail Polish,Nail care,303.69,1.8,3085,432,0.06,131,07-10-2023,Dayton,TRUE,,,,304,55.54277631,,,,,610,Nail,lish,6,yton
+810,Cuticle Oil,Nail care,371.58,3.4,3276,78,0.25,987,10-09-2023,Mission Viejo,TRUE,,,,372,57.23635209,,,,,650,Cuti, Oil,13,ssion 
+811,Cuticle Oil,Nail care,52.68,2.9,1177,153,0.13,1456,07-10-2023,San Antonio,FALSE,,,,53,34.3074336,,,,,246,Cuti, Oil,11,n Anto
+812,Nail Clippers,Nail care,249.63,2.4,2857,786,0.28,1952,3/28/2024,Jacksonville,FALSE,,,,250,53.45091206,,,,,576,Nail,pers,12,cksonv
+813,Nail Polish,Nail care,162.97,3.9,4662,665,0.18,1331,6/22/2023,Virginia Beach,FALSE,,,,163,68.27884006,,,,,935,Nail,lish,14,rginia
+814,Nail Polish,Nail care,304.68,2.4,4503,188,0.37,1152,4/24/2024,Nashville,FALSE,,,,305,67.10439628,,,,,892,Nail,lish,9,shvill
+815,Nail Polish,Nail care,206.92,3.7,2489,199,0.37,859,1/30/2024,Allentown,FALSE,,,,207,49.88987873,,,,,502,Nail,lish,9,lentow
+816,Nail Clippers,Nail care,245.34,3.6,1357,810,0.06,1357,11/26/2023,Bonita Springs,FALSE,,,,245,36.83748091,,,,,288,Nail,pers,14,nita S
+817,Nail Polish,Nail care,376.82,2.9,3010,435,0.27,1945,06-10-2024,Allentown,FALSE,,,,377,54.8634669,,,,,594,Nail,lish,9,lentow
+818,Nail File,Nail care,404.75,2.2,4825,555,0.27,1613,11-09-2023,Springfield,FALSE,,,,405,69.46221995,,,,,970,Nail,File,11,ringfi
+819,Nail File,Nail care,228.9,1.5,1959,577,0.01,86,3/25/2024,Los Angeles,FALSE,,,,229,44.26059195,,,,,387,Nail,File,11,s Ange
+820,Nail Polish,Nail care,335.02,4.4,1299,698,0.47,1206,9/18/2023,Minneapolis,FALSE,,,,335,36.04164258,,,,,275,Nail,lish,11,nneapo
+821,Nail Clippers,Nail care,387.18,4.9,2831,338,0.17,1532,10/18/2023,San Francisco,FALSE,,,,387,53.20714238,,,,,569,Nail,pers,13,n Fran
+822,Nail File,Nail care,253.65,1.7,3089,523,0.42,1269,11-03-2023,Bakersfield,FALSE,,,,254,55.57877293,,,,,613,Nail,File,11,kersfi
+823,Nail Polish,Nail care,202.88,2.9,1797,83,0.43,618,6/21/2023,Reno,TRUE,,,,203,42.39103679,,,,,362,Nail,lish,4,no
+824,Nail Clippers,Nail care,184.49,3.7,142,191,0.41,580,5/20/2024,New Orleans,TRUE,,,,184,11.91637529,,,,,29,Nail,pers,11,w Orle
+825,Nail Polish,Nail care,272.32,3.5,4500,839,0.16,1290,7/20/2023,Bronx,TRUE,,,,272,67.08203932,,,,,890,Nail,lish,5,onx
+826,Nail File,Nail care,336.79,2.7,3597,502,0.36,1675,8/23/2023,Harrisburg,TRUE,,,,337,59.97499479,,,,,712,Nail,File,10,rrisbu
+827,Nail Clippers,Nail care,55.43,3.1,4729,912,0.06,957,11-02-2023,Albuquerque,TRUE,,,,55,68.76772499,,,,,948,Nail,pers,11,buquer
+828,Cuticle Oil,Nail care,246.31,1.2,2985,396,0.35,1108,11-11-2023,Grand Rapids,TRUE,,,,246,54.63515352,,,,,592,Cuti, Oil,12,and Ra
+829,Nail Polish,Nail care,485.21,3.9,641,11,0.38,865,9/24/2023,Tulsa,TRUE,,,,485,25.3179778,,,,,131,Nail,lish,5,lsa
+830,Nail Clippers,Nail care,170.91,2.9,2942,651,0.24,519,10-06-2023,Spokane,FALSE,,,,171,54.24020649,,,,,587,Nail,pers,7,okane
+831,Cuticle Oil,Nail care,76.82,3.9,4564,211,0.13,803,6/16/2023,Tulsa,FALSE,,,,77,67.55738302,,,,,907,Cuti, Oil,5,lsa
+832,Nail Clippers,Nail care,258.28,4.4,853,660,0.07,477,12/28/2023,El Paso,FALSE,,,,258,29.20616373,,,,,169,Nail,pers,7, Paso
+833,Nail Clippers,Nail care,462.1,3,4505,421,0.42,1724,4/29/2024,Virginia Beach,FALSE,,,,462,67.11929678,,,,,893,Nail,pers,14,rginia
+834,Nail File,Nail care,174.8,4.7,377,389,0.28,241,8/23/2023,Salt Lake City,FALSE,,,,175,19.41648784,,,,,79,Nail,File,14,lt Lak
+835,Nail Clippers,Nail care,169.06,3.7,69,852,0.14,38,8/28/2023,Queens,TRUE,,,,169,8.306623863,,,,,17,Nail,pers,6,eens
+836,Cuticle Oil,Nail care,393.67,4,755,351,0.42,1321,09-03-2023,Houston,TRUE,,,,394,27.47726333,,,,,157,Cuti, Oil,7,uston
+837,Nail File,Nail care,257.41,4.1,3865,24,0.06,737,4/16/2024,Philadelphia,TRUE,,,,257,62.16912417,,,,,766,Nail,File,12,iladel
+838,Nail Clippers,Nail care,218.23,2.5,2623,454,0.22,1236,9/28/2023,Denver,TRUE,,,,218,51.21523211,,,,,529,Nail,pers,6,nver
+839,Nail File,Nail care,59.28,2.6,595,802,0.43,1020,10-10-2023,Colorado Springs,TRUE,,,,59,24.39262184,,,,,121,Nail,File,16,lorado
+840,Nail File,Nail care,172.89,2.3,3964,541,0.18,905,07-05-2023,Ogden,TRUE,,,,173,62.96030495,,,,,782,Nail,File,5,den
+841,Thongs,Underwear,496.7,4.5,3235,160,0.3,1831,3/15/2024,Pittsburgh,TRUE,,,,497,56.8770604,,,,,645,Thon,ongs,10,ttsbur
+842,Thongs,Underwear,425.61,3.7,4957,274,0.1,1274,08-07-2023,Raleigh,TRUE,,,,426,70.40596566,,,,,991,Thon,ongs,7,leigh
+843,Thongs,Underwear,165.84,4.7,1927,529,0.46,4,12/13/2023,Charleston,TRUE,,,,166,43.89760814,,,,,381,Thon,ongs,10,arlest
+844,Boxers,Underwear,165.52,1.9,2663,890,0.05,1278,3/28/2024,Reno,FALSE,,,,166,51.60426339,,,,,537,Boxe,xers,4,no
+845,Briefs,Underwear,17.85,4.9,2636,484,0.3,1281,02-06-2024,Bronx,FALSE,,,,18,51.34199061,,,,,532,Brie,iefs,5,onx
+846,Boxers,Underwear,203.1,4.4,253,187,0.4,782,06-07-2024,Columbia,FALSE,,,,203,15.90597372,,,,,54,Boxe,xers,8,lumbia
+847,Panties,Underwear,450.63,3.5,654,361,0.24,1798,05-03-2024,Akron,FALSE,,,,451,25.57342371,,,,,133,Pant,ties,5,ron
+848,Thongs,Underwear,341.44,2.2,3823,739,0.38,576,06-01-2024,Oklahoma City,FALSE,,,,341,61.83041323,,,,,760,Thon,ongs,13,lahoma
+849,Thongs,Underwear,312.14,1.2,1244,852,0.23,236,11-06-2023,Atlanta,FALSE,,,,312,35.27038418,,,,,260,Thon,ongs,7,lanta
+850,Panties,Underwear,112.46,1.5,989,188,0.49,615,07-12-2023,McAllen,FALSE,,,,112,31.44837039,,,,,210,Pant,ties,7,Allen
+851,Panties,Underwear,20.29,1.1,4452,255,0.44,1755,06-03-2024,Cleveland,FALSE,,,,20,66.72330927,,,,,882,Pant,ties,9,evelan
+852,Thongs,Underwear,207.49,3.5,4379,311,0.06,481,10/30/2023,Spokane,FALSE,,,,207,66.17401303,,,,,867,Thon,ongs,7,okane
+853,Boxers,Underwear,228.18,3,569,589,0.05,421,7/24/2023,Columbia,FALSE,,,,228,23.85372088,,,,,114,Boxe,xers,8,lumbia
+854,Boxers,Underwear,172.76,3.8,1223,100,0.46,1609,12/24/2023,Denver,FALSE,,,,173,34.9714169,,,,,256,Boxe,xers,6,nver
+855,Boxers,Underwear,125.44,2.2,220,594,0.12,521,06-08-2024,Indianapolis,FALSE,,,,125,14.83239697,,,,,46,Boxe,xers,12,dianap
+856,Panties,Underwear,324.96,3.9,4310,971,0.12,100,06-03-2024,Charleston,TRUE,,,,325,65.65059025,,,,,857,Pant,ties,10,arlest
+857,Boxers,Underwear,426.75,4,3134,632,0.16,104,9/26/2023,Birmingham,TRUE,,,,427,55.98214001,,,,,619,Boxe,xers,10,rmingh
+858,Boxers,Underwear,308.02,2.8,3099,681,0.46,1651,04-04-2024,Columbia,TRUE,,,,308,55.66866264,,,,,617,Boxe,xers,8,lumbia
+859,Briefs,Underwear,242.41,1.7,2415,250,0.03,1954,12/21/2023,Cape Coral,TRUE,,,,242,49.1426495,,,,,485,Brie,iefs,10,pe Cor
+860,Briefs,Underwear,340.28,1.1,918,149,0.04,58,7/24/2023,San Francisco,TRUE,,,,340,30.29851482,,,,,188,Brie,iefs,13,n Fran
+861,Panties,Underwear,135.64,4.7,3815,246,0.4,1262,12/27/2023,Tucson,TRUE,,,,136,61.76568627,,,,,758,Pant,ties,6,cson
+862,Thongs,Underwear,216.16,3,3799,688,0.36,1103,12-10-2023,Oklahoma City,TRUE,,,,216,61.63602842,,,,,751,Thon,ongs,13,lahoma
+863,Panties,Underwear,361.51,2.8,4573,925,0.48,1237,07-06-2023,Washington,TRUE,,,,362,67.62396025,,,,,912,Pant,ties,10,shingt
+864,Briefs,Underwear,432.85,2.9,587,310,0.02,707,6/27/2023,Baltimore,TRUE,,,,433,24.22808288,,,,,120,Brie,iefs,9,ltimor
+865,Thongs,Underwear,109.96,4.3,4020,83,0.03,667,5/27/2024,Grand Rapids,TRUE,,,,110,63.40346994,,,,,799,Thon,ongs,12,and Ra
+866,Boxers,Underwear,206.83,3,2084,332,0.33,44,11/19/2023,Brooklyn,TRUE,,,,207,45.65084884,,,,,417,Boxe,xers,8,ooklyn
+867,Briefs,Underwear,261.46,3.9,18,364,0.1,1784,2/16/2024,Provo,TRUE,,,,261,4.242640687,,,,,7,Brie,iefs,5,ovo
+868,Thongs,Underwear,194.17,4.3,4150,777,0.23,1320,10/25/2023,Provo,FALSE,,,,194,64.42049363,,,,,823,Thon,ongs,5,ovo
+869,Boxers,Underwear,230.62,2,1467,127,0.03,391,12-02-2023,Bonita Springs,FALSE,,,,231,38.301436,,,,,310,Boxe,xers,14,nita S
+870,Thongs,Underwear,481.09,3.5,4144,776,0.02,1081,12-10-2023,Oakland,FALSE,,,,481,64.37390776,,,,,822,Thon,ongs,7,kland
+871,Briefs,Underwear,239.18,3.4,2194,483,0.28,1676,7/14/2023,Rochester,FALSE,,,,239,46.84015371,,,,,437,Brie,iefs,9,cheste
+872,Thongs,Underwear,447.72,2.7,4016,803,0.24,1289,03-09-2024,Columbia,FALSE,,,,448,63.37191807,,,,,798,Thon,ongs,8,lumbia
+873,Briefs,Underwear,455.34,4.1,2266,532,0.47,79,08-05-2023,Salt Lake City,FALSE,,,,455,47.60252094,,,,,452,Brie,iefs,14,lt Lak
+874,Briefs,Underwear,259.39,2.8,693,24,0.48,631,09-09-2023,Memphis,FALSE,,,,259,26.32489316,,,,,147,Brie,iefs,7,mphis
+875,Briefs,Underwear,168.92,4.8,4114,383,0.35,236,09-09-2023,Birmingham,FALSE,,,,169,64.14047084,,,,,813,Brie,iefs,10,rmingh
+876,Panties,Underwear,50.46,1.6,4734,236,0.26,54,12/23/2023,Birmingham,FALSE,,,,50,68.80406965,,,,,951,Pant,ties,10,rmingh
+877,Boxers,Underwear,436.14,2.9,372,972,0.17,200,07-11-2023,Tampa,FALSE,,,,436,19.28730152,,,,,75,Boxe,xers,5,mpa
+878,Boxers,Underwear,407.23,4.8,3189,702,0.31,314,09-10-2023,Washington,FALSE,,,,407,56.47123161,,,,,633,Boxe,xers,10,shingt
+879,Boxers,Underwear,16.96,2,574,573,0.35,1552,7/23/2023,Phoenix,FALSE,,,,17,23.9582971,,,,,116,Boxe,xers,7,oenix
+880,Panties,Underwear,434.92,4.8,1104,550,0.2,428,11/28/2023,San Juan,TRUE,,,,435,33.22649545,,,,,230,Pant,ties,8,n Juan
+881,Oil Filter,Motor vehicle parts,254.18,3.4,1992,195,0.27,13,7/23/2023,Allentown,TRUE,,,,254,44.63182721,,,,,391,Oil ,lter,9,lentow
+882,Oil Filter,Motor vehicle parts,54.37,3.7,528,797,0.39,1634,09-07-2023,Raleigh,TRUE,,,,54,22.97825059,,,,,105,Oil ,lter,7,leigh
+883,Brake Pads,Motor vehicle parts,448.91,1.1,3336,270,0.02,1723,11-11-2023,Pittsburgh,TRUE,,,,449,57.75811631,,,,,659,Brak,Pads,10,ttsbur
+884,Spark Plugs,Motor vehicle parts,177.61,4.2,3392,724,0.11,640,06-02-2024,Long Beach,TRUE,,,,178,58.24087911,,,,,673,Spar,lugs,10,ng Bea
+885,Spark Plugs,Motor vehicle parts,80.34,1.7,4198,891,0.26,1903,5/16/2024,Dayton,TRUE,,,,80,64.79197481,,,,,830,Spar,lugs,6,yton
+886,Car Battery,Motor vehicle parts,433.08,1.6,988,81,0.43,821,10-02-2023,Denton,TRUE,,,,433,31.43246729,,,,,209,Car ,tery,6,nton
+887,Oil Filter,Motor vehicle parts,192.3,1.4,2440,712,0.12,1278,12/16/2023,Louisville,TRUE,,,,192,49.39635614,,,,,495,Oil ,lter,10,uisvil
+888,Spark Plugs,Motor vehicle parts,279.67,3.1,2205,3,0.42,959,11/21/2023,Fresno,TRUE,,,,280,46.95742753,,,,,441,Spar,lugs,6,esno
+889,Oil Filter,Motor vehicle parts,267.79,3.8,3350,815,0.37,677,08-06-2023,Virginia Beach,TRUE,,,,268,57.87918451,,,,,663,Oil ,lter,14,rginia
+890,Car Battery,Motor vehicle parts,412.66,1.6,1158,696,0.02,617,1/31/2024,Fresno,FALSE,,,,413,34.02939905,,,,,243,Car ,tery,6,esno
+891,Car Battery,Motor vehicle parts,104.21,2.2,4681,462,0.29,121,5/26/2024,Concord,FALSE,,,,104,68.41783393,,,,,943,Car ,tery,7,ncord
+892,Car Battery,Motor vehicle parts,208.5,1,2042,502,0.25,1697,11/27/2023,Philadelphia,FALSE,,,,209,45.18849411,,,,,404,Car ,tery,12,iladel
+893,Oil Filter,Motor vehicle parts,302.11,4,417,555,0.34,325,12/17/2023,Bridgeport,FALSE,,,,302,20.42057786,,,,,86,Oil ,lter,10,idgepo
+894,Brake Pads,Motor vehicle parts,235.56,1.9,2261,853,0.48,1602,7/16/2023,San Jose,FALSE,,,,236,47.54997371,,,,,451,Brak,Pads,8,n Jose
+895,Brake Pads,Motor vehicle parts,180.43,3.5,3905,3,0.04,599,5/26/2024,Mesa,FALSE,,,,180,62.4899992,,,,,772,Brak,Pads,4,sa
+896,Car Battery,Motor vehicle parts,114.64,2.6,1993,904,0.11,722,09-09-2023,New Haven,FALSE,,,,115,44.64302857,,,,,392,Car ,tery,9,w Have
+897,Car Battery,Motor vehicle parts,434.45,4.5,4354,323,0.12,1191,12/19/2023,Bronx,FALSE,,,,434,65.98484675,,,,,864,Car ,tery,5,onx
+898,Oil Filter,Motor vehicle parts,185.74,2.1,4568,295,0.05,813,7/14/2023,Las Vegas,FALSE,,,,186,67.58698099,,,,,910,Oil ,lter,9,s Vega
+899,Brake Pads,Motor vehicle parts,186.24,3.7,1767,240,0.03,769,10-07-2023,Hartford,FALSE,,,,186,42.03569911,,,,,359,Brak,Pads,8,rtford
+900,Brake Pads,Motor vehicle parts,210.5,2.3,4266,473,0.22,1130,7/25/2023,Dayton,FALSE,,,,211,65.31462317,,,,,844,Brak,Pads,6,yton
+901,Spark Plugs,Motor vehicle parts,409.89,4.9,3686,550,0.03,1848,12/14/2023,El Paso,FALSE,,,,410,60.71243695,,,,,729,Spar,lugs,7, Paso
+902,Brake Pads,Motor vehicle parts,308.74,4.7,3957,335,0.28,1570,9/27/2023,Hartford,TRUE,,,,309,62.90468981,,,,,779,Brak,Pads,8,rtford
+903,Car Battery,Motor vehicle parts,173.55,3.3,2886,116,0.28,1897,2/17/2024,Rochester,TRUE,,,,174,53.72150407,,,,,577,Car ,tery,9,cheste
+904,Oil Filter,Motor vehicle parts,227.87,1.1,4934,65,0.46,446,5/23/2024,Bonita Springs,TRUE,,,,228,70.24243732,,,,,989,Oil ,lter,14,nita S
+905,Brake Pads,Motor vehicle parts,35.83,2.8,2758,550,0.46,394,7/22/2023,New York,TRUE,,,,36,52.51666402,,,,,557,Brak,Pads,8,w York
+906,Brake Pads,Motor vehicle parts,159.02,3.5,1189,641,0.45,1875,3/15/2024,San Francisco,TRUE,,,,159,34.4818793,,,,,249,Brak,Pads,13,n Fran
+907,Spark Plugs,Motor vehicle parts,325.51,4.3,3748,48,0.32,1813,2/19/2024,San Jose,TRUE,,,,326,61.22091146,,,,,742,Spar,lugs,8,n Jose
+908,Spark Plugs,Motor vehicle parts,133.39,4.3,1397,372,0.43,1778,7/28/2023,Queens,TRUE,,,,133,37.37646318,,,,,297,Spar,lugs,6,eens
+909,Oil Filter,Motor vehicle parts,139.91,2.7,81,86,0.08,821,6/20/2023,Providence,FALSE,,,,140,9,,,,,21,Oil ,lter,10,oviden
+910,Spark Plugs,Motor vehicle parts,249.39,3.1,1932,680,0.13,1860,03-12-2024,Tulsa,FALSE,,,,249,43.95452195,,,,,384,Spar,lugs,5,lsa
+911,Brake Pads,Motor vehicle parts,73.25,4,3933,313,0.31,1945,02-05-2024,Buffalo,FALSE,,,,73,62.71363488,,,,,777,Brak,Pads,7,ffalo
+912,Spark Plugs,Motor vehicle parts,76.47,2,2597,452,0.47,737,4/20/2024,Harrisburg,FALSE,,,,76,50.96076922,,,,,525,Spar,lugs,10,rrisbu
+913,Spark Plugs,Motor vehicle parts,232.42,3,1928,575,0.14,636,12/16/2023,Springfield,FALSE,,,,232,43.9089968,,,,,382,Spar,lugs,11,ringfi
+914,Spark Plugs,Motor vehicle parts,498.86,2.1,4124,371,0.33,1893,11/22/2023,Salt Lake City,TRUE,,,,499,64.21837743,,,,,816,Spar,lugs,14,lt Lak
+915,Spark Plugs,Motor vehicle parts,119.27,2.6,1125,45,0.01,1187,2/22/2024,Houston,TRUE,,,,119,33.54101966,,,,,234,Spar,lugs,7,uston
+916,Oil Filter,Motor vehicle parts,440.87,3.1,3362,670,0.13,896,09-05-2023,Kansas City,TRUE,,,,441,57.98275606,,,,,665,Oil ,lter,11,nsas C
+917,Spark Plugs,Motor vehicle parts,225.17,1.2,1074,897,0.41,491,04-04-2024,Raleigh,TRUE,,,,225,32.77193922,,,,,227,Spar,lugs,7,leigh
+918,Brake Pads,Motor vehicle parts,219.18,2.9,4284,414,0.32,1099,12/31/2023,Charlotte,TRUE,,,,219,65.45227269,,,,,851,Brak,Pads,9,arlott
+919,Oil Filter,Motor vehicle parts,466.42,2.4,3055,688,0.49,1412,11-07-2023,Harrisburg,TRUE,,,,466,55.27205442,,,,,603,Oil ,lter,10,rrisbu
+920,Brake Pads,Motor vehicle parts,377.28,3.8,2302,235,0.03,1284,10-02-2023,San Diego,TRUE,,,,377,47.97916214,,,,,460,Brak,Pads,9,n Dieg
+921,Charger,Mobile phone accessories,331.2,1.2,258,947,0.36,524,11/17/2023,Provo,TRUE,,,,331,16.0623784,,,,,56,Char,rger,5,ovo
+922,Charger,Mobile phone accessories,252.05,4.5,2202,677,0.25,1853,6/20/2023,Sacramento,TRUE,,,,252,46.92547283,,,,,440,Char,rger,10,cramen
+923,Screen Protector,Mobile phone accessories,469.45,2.4,4724,198,0.1,532,11/25/2023,Phoenix,FALSE,,,,469,68.73136111,,,,,946,Scre,ctor,7,oenix
+924,Charger,Mobile phone accessories,319.21,1.1,4343,787,0.26,1325,05-12-2024,St. Louis,FALSE,,,,319,65.90144156,,,,,862,Char,rger,9,. Loui
+925,Screen Protector,Mobile phone accessories,177.77,3.2,3342,605,0.38,1820,3/24/2024,Oklahoma City,FALSE,,,,178,57.81003373,,,,,660,Scre,ctor,13,lahoma
+926,Earbuds,Mobile phone accessories,102.23,1.7,838,406,0.2,1116,07-12-2023,St. Louis,FALSE,,,,102,28.94822965,,,,,166,Earb,buds,9,. Loui
+927,Screen Protector,Mobile phone accessories,34.01,3.3,4468,224,0.27,1272,3/13/2024,New York,FALSE,,,,34,66.84309987,,,,,886,Scre,ctor,8,w York
+928,Earbuds,Mobile phone accessories,483.61,2.8,1840,938,0.42,839,11-10-2023,Richmond,FALSE,,,,484,42.89522118,,,,,367,Earb,buds,8,chmond
+929,Phone Case,Mobile phone accessories,340.86,1.8,4771,872,0.06,1837,7/26/2023,Provo,FALSE,,,,341,69.07242576,,,,,958,Phon,Case,5,ovo
+930,Phone Case,Mobile phone accessories,382.03,3.5,3497,947,0.17,1148,04-06-2024,Portland,FALSE,,,,382,59.13543777,,,,,697,Phon,Case,8,rtland
+931,Screen Protector,Mobile phone accessories,293.59,3.5,1601,825,0.35,1622,06-10-2024,Pittsburgh,FALSE,,,,294,40.01249805,,,,,333,Scre,ctor,10,ttsbur
+932,Earbuds,Mobile phone accessories,339.69,3,4631,367,0.15,1984,11/16/2023,Concord,FALSE,,,,340,68.05145112,,,,,925,Earb,buds,7,ncord
+933,Charger,Mobile phone accessories,479.41,1.1,3549,104,0.08,45,08-06-2023,Fort Worth,FALSE,,,,479,59.57348403,,,,,706,Char,rger,10,rt Wor
+934,Charger,Mobile phone accessories,116.69,3.5,1836,921,0.24,535,05-08-2024,Manhattan,FALSE,,,,117,42.84857057,,,,,366,Char,rger,9,nhatta
+935,Earbuds,Mobile phone accessories,255.3,4.6,2063,570,0.32,1973,11/18/2023,Boise,TRUE,,,,255,45.4202598,,,,,413,Earb,buds,5,ise
+936,Earbuds,Mobile phone accessories,291.23,2.4,2752,846,0.25,1603,8/18/2023,Little Rock,TRUE,,,,291,52.45950819,,,,,554,Earb,buds,11,ttle R
+937,Phone Case,Mobile phone accessories,208.68,4.9,1505,102,0.45,177,11-10-2023,Bronx,TRUE,,,,209,38.79432948,,,,,316,Phon,Case,5,onx
+938,Charger,Mobile phone accessories,133.64,4.7,2096,537,0.1,175,3/25/2024,St. Louis,TRUE,,,,134,45.78209257,,,,,418,Char,rger,9,. Loui
+939,Screen Protector,Mobile phone accessories,454.42,1.7,1667,275,0.23,675,8/29/2023,San Diego,TRUE,,,,454,40.82891133,,,,,342,Scre,ctor,9,n Dieg
+940,Earbuds,Mobile phone accessories,265.23,2.9,546,111,0.41,35,11-08-2023,New York,TRUE,,,,265,23.36664289,,,,,111,Earb,buds,8,w York
+941,Earbuds,Mobile phone accessories,217.24,4.2,4402,533,0.23,1132,6/21/2023,Kansas City,TRUE,,,,217,66.34756966,,,,,872,Earb,buds,11,nsas C
+942,Phone Case,Mobile phone accessories,277.04,1.3,2739,180,0.08,1487,12/26/2023,Denver,TRUE,,,,277,52.33545643,,,,,552,Phon,Case,6,nver
+943,Screen Protector,Mobile phone accessories,273.27,3.7,2431,811,0.31,38,09-01-2023,Louisville,TRUE,,,,273,49.30517214,,,,,492,Scre,ctor,10,uisvil
+944,Screen Protector,Mobile phone accessories,94.38,2.7,4766,242,0.42,1997,4/24/2024,Bonita Springs,TRUE,,,,94,69.03622238,,,,,957,Scre,ctor,14,nita S
+945,Phone Case,Mobile phone accessories,99.88,1,4025,870,0.07,946,06-10-2024,Miami,TRUE,,,,100,63.4428877,,,,,800,Phon,Case,5,ami
+946,Charger,Mobile phone accessories,119.57,4.4,3665,655,0.22,540,9/16/2023,Dallas,TRUE,,,,120,60.53924347,,,,,726,Char,rger,6,llas
+947,Charger,Mobile phone accessories,48.37,3.3,505,105,0.22,1194,07-11-2023,Tucson,FALSE,,,,48,22.47220505,,,,,100,Char,rger,6,cson
+948,Phone Case,Mobile phone accessories,438.62,3.9,4067,99,0.44,1597,12-10-2023,Manhattan,FALSE,,,,439,63.77303505,,,,,805,Phon,Case,9,nhatta
+949,Phone Case,Mobile phone accessories,320.26,3.9,4727,681,0.01,1884,9/26/2023,Oakland,FALSE,,,,320,68.75318174,,,,,947,Phon,Case,7,kland
+950,Screen Protector,Mobile phone accessories,234.29,1.4,3302,719,0.47,1922,2/19/2024,Houston,FALSE,,,,234,57.46303159,,,,,653,Scre,ctor,7,uston
+951,Screen Protector,Mobile phone accessories,95.24,1.2,4969,721,0.46,1555,4/15/2024,Virginia Beach,FALSE,,,,95,70.49113419,,,,,994,Scre,ctor,14,rginia
+952,Earbuds,Mobile phone accessories,499.68,1.8,886,461,0.34,1075,8/24/2023,Tampa,FALSE,,,,500,29.76575213,,,,,179,Earb,buds,5,mpa
+953,Earbuds,Mobile phone accessories,256.41,4.2,926,556,0.48,1055,8/28/2023,Madison,FALSE,,,,256,30.43024811,,,,,191,Earb,buds,7,dison
+954,Screen Protector,Mobile phone accessories,265.65,1.9,1052,642,0.1,252,8/31/2023,Fresno,FALSE,,,,266,32.43454948,,,,,222,Scre,ctor,6,esno
+955,Phone Case,Mobile phone accessories,177.69,4.9,4525,579,0.21,1164,10/25/2023,Atlanta,FALSE,,,,178,67.26812024,,,,,898,Phon,Case,7,lanta
+956,Earbuds,Mobile phone accessories,77.49,1.2,1468,757,0.03,575,05-12-2024,Provo,FALSE,,,,77,38.31448812,,,,,311,Earb,buds,5,ovo
+957,Earbuds,Mobile phone accessories,395.39,2,1645,580,0.22,811,7/18/2023,Mesa,FALSE,,,,395,40.55859958,,,,,339,Earb,buds,4,sa
+958,Earbuds,Mobile phone accessories,492.03,2.4,3142,766,0.18,1590,7/25/2023,Boston,FALSE,,,,492,56.05354583,,,,,623,Earb,buds,6,ston
+959,Phone Case,Mobile phone accessories,26.86,3.5,810,187,0.3,809,11/21/2023,Concord,FALSE,,,,27,28.46049894,,,,,163,Phon,Case,7,ncord
+960,Phone Case,Mobile phone accessories,360.33,2,2705,596,0.31,947,4/27/2024,Orlando,FALSE,,,,360,52.0096145,,,,,543,Phon,Case,7,lando
+961,Throw Blanket,Blankets,438.03,1.9,3697,490,0.37,891,5/13/2024,Bakersfield,FALSE,,,,438,60.80296045,,,,,731,Thro,nket,11,kersfi
+962,Throw Blanket,Blankets,442.17,4.8,4376,274,0.2,718,7/20/2023,Raleigh,FALSE,,,,442,66.15134163,,,,,866,Thro,nket,7,leigh
+963,Electric Blanket,Blankets,14.22,1.1,2073,26,0.23,1919,12/25/2023,Jacksonville,FALSE,,,,14,45.53020975,,,,,415,Elec,nket,12,cksonv
+964,Fleece Blanket,Blankets,217.12,3.9,4324,978,0.13,527,09-07-2023,Houston,FALSE,,,,217,65.75712889,,,,,860,Flee,nket,7,uston
+965,Electric Blanket,Blankets,298.33,1.8,2153,731,0.03,1712,09-04-2023,Madison,FALSE,,,,298,46.40043103,,,,,426,Elec,nket,7,dison
+966,Fleece Blanket,Blankets,136.57,4.5,2720,618,0.22,1770,5/25/2024,Rochester,FALSE,,,,137,52.15361924,,,,,546,Flee,nket,9,cheste
+967,Weighted Blanket,Blankets,37.31,4.6,3788,550,0.25,1711,10/15/2023,Staten Island,FALSE,,,,37,61.54673021,,,,,747,Weig,nket,13,aten I
+968,Weighted Blanket,Blankets,152.59,4.5,677,105,0.36,1946,04-01-2024,Atlanta,TRUE,,,,153,26.01922366,,,,,139,Weig,nket,7,lanta
+969,Throw Blanket,Blankets,104.23,2.9,3257,69,0.42,1269,9/24/2023,Phoenix,TRUE,,,,104,57.07013229,,,,,648,Thro,nket,7,oenix
+970,Weighted Blanket,Blankets,271.2,3.5,1301,562,0.06,454,2/29/2024,Cincinnati,TRUE,,,,271,36.06937759,,,,,277,Weig,nket,10,ncinna
+971,Weighted Blanket,Blankets,465.67,2.8,1417,500,0.15,1544,3/25/2024,Ogden,TRUE,,,,466,37.64306045,,,,,302,Weig,nket,5,den
+972,Throw Blanket,Blankets,209.1,4.7,1209,33,0.06,130,2/13/2024,San Jose,TRUE,,,,209,34.7706773,,,,,252,Thro,nket,8,n Jose
+973,Electric Blanket,Blankets,336.54,2.1,2544,402,0.05,614,7/19/2023,Tampa,TRUE,,,,337,50.43808085,,,,,515,Elec,nket,5,mpa
+974,Throw Blanket,Blankets,481.48,4.9,120,605,0.24,128,3/13/2024,Portland,TRUE,,,,481,10.95445115,,,,,26,Thro,nket,8,rtland
+975,Throw Blanket,Blankets,311.1,4.6,332,296,0.17,1196,11/17/2023,Pittsburgh,TRUE,,,,311,18.22086716,,,,,65,Thro,nket,10,ttsbur
+976,Throw Blanket,Blankets,118.14,3.1,4234,502,0.4,28,1/21/2024,Phoenix,TRUE,,,,118,65.06919394,,,,,836,Thro,nket,7,oenix
+977,Throw Blanket,Blankets,111.33,4.7,1865,944,0.48,63,10/13/2023,San Jose,TRUE,,,,111,43.18564576,,,,,370,Thro,nket,8,n Jose
+978,Weighted Blanket,Blankets,141.74,5,1906,231,0.07,1218,7/14/2023,Birmingham,FALSE,,,,142,43.65775991,,,,,377,Weig,nket,10,rmingh
+979,Throw Blanket,Blankets,311.98,1.2,3985,392,0.31,1172,10-07-2023,Staten Island,FALSE,,,,312,63.12685641,,,,,788,Thro,nket,13,aten I
+980,Fleece Blanket,Blankets,206.17,4.8,4293,555,0.24,1452,5/26/2024,Pittsburgh,FALSE,,,,206,65.520989,,,,,854,Flee,nket,10,ttsbur
+981,Electric Blanket,Blankets,347.7,2.4,4994,75,0.41,961,10-08-2023,Sacramento,FALSE,,,,348,70.66823898,,,,,1000,Elec,nket,10,cramen
+982,Weighted Blanket,Blankets,404.51,4.4,392,84,0.48,610,07-01-2023,Harrisburg,FALSE,,,,405,19.79898987,,,,,81,Weig,nket,10,rrisbu
+983,Fleece Blanket,Blankets,194.73,4.9,3677,173,0.01,219,05-12-2024,Bakersfield,FALSE,,,,195,60.63827174,,,,,728,Flee,nket,11,kersfi
+984,Electric Blanket,Blankets,80.1,1.1,616,538,0.47,870,03-03-2024,Miami,FALSE,,,,80,24.81934729,,,,,127,Elec,nket,5,ami
+985,Fleece Blanket,Blankets,177.42,4.8,340,860,0.36,1340,05-05-2024,Oakland,TRUE,,,,177,18.43908891,,,,,66,Flee,nket,7,kland
+986,Throw Blanket,Blankets,345.37,3,2975,25,0.24,1346,10/31/2023,Bakersfield,TRUE,,,,345,54.54356057,,,,,591,Thro,nket,11,kersfi
+987,Fleece Blanket,Blankets,94.47,4.5,3979,559,0.08,370,8/26/2023,Indianapolis,TRUE,,,,94,63.07931515,,,,,784,Flee,nket,12,dianap
+988,Throw Blanket,Blankets,383.64,3.3,1228,696,0.4,386,08-08-2023,Ogden,TRUE,,,,384,35.04283094,,,,,257,Thro,nket,5,den
+989,Throw Blanket,Blankets,255.92,2.8,1781,160,0.07,1969,11/13/2023,Boston,TRUE,,,,256,42.20189569,,,,,361,Thro,nket,6,ston
+990,Throw Blanket,Blankets,409.36,2,550,600,0.05,991,10-02-2023,Richmond,TRUE,,,,409,23.4520788,,,,,112,Thro,nket,8,chmond
+991,Throw Blanket,Blankets,48.75,2.8,2737,588,0.48,991,5/28/2024,Ogden,TRUE,,,,49,52.31634544,,,,,551,Thro,nket,5,den
+992,Throw Blanket,Blankets,57.35,2.1,4264,329,0.44,1328,1/18/2024,Richmond,TRUE,,,,57,65.29931087,,,,,842,Thro,nket,8,chmond
+993,Electric Blanket,Blankets,214.76,1.2,527,226,0.08,1564,1/13/2024,Akron,TRUE,,,,215,22.95648057,,,,,104,Elec,nket,5,ron
+994,Fleece Blanket,Blankets,61.84,3,1176,788,0.47,56,12-09-2023,Long Beach,TRUE,,,,62,34.2928564,,,,,245,Flee,nket,10,ng Bea
+995,Weighted Blanket,Blankets,269.34,3.3,2513,662,0.17,800,10/25/2023,San Antonio,TRUE,,,,269,50.12983144,,,,,510,Weig,nket,11,n Anto
+996,Throw Blanket,Blankets,207.72,2.3,1973,16,0.46,325,2/13/2024,Baton Rouge,TRUE,,,,208,44.41846463,,,,,388,Thro,nket,11,ton Ro
+997,Fleece Blanket,Blankets,268.6,3.2,841,201,0.39,1546,07-01-2023,Worcester,TRUE,,,,269,29,,,,,167,Flee,nket,9,rceste
+998,Throw Blanket,Blankets,92.74,2.8,3454,880,0.02,1295,10/29/2023,Raleigh,FALSE,,,,93,58.77074102,,,,,686,Thro,nket,7,leigh
+999,Weighted Blanket,Blankets,152.28,1.3,2850,752,0.34,1962,10/28/2023,Nashville,FALSE,,,,152,53.38539126,,,,,574,Weig,nket,9,shvill
+1000,Throw Blanket,Blankets,136.53,2,4055,282,0.38,1089,1/27/2024,San Francisco,FALSE,,,,137,63.6788819,,,,,802,Thro,nket,13,n Fran
